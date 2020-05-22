@@ -1,3 +1,8 @@
+---
+categories: "arts, arts projects, arts performances, videos, documentation"
+description: list of my arts projects and public performances
+---
+
 # List of My Arts Projects and Public Performances
 
 This web page lists most of my arts projects and public performances

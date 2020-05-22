@@ -1,3 +1,8 @@
+---
+categories: "scratch pad, documentation, links"
+description: scratch pad for helping me authoring this website
+---
+
 # Scratch Pad
 
 This page contains useful notes useful mostly for myself for authoring
