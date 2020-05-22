@@ -1,5 +1,5 @@
 title: GitHub Pages Example
-iconurl: https://avatars3.githubusercontent.com/u/32656684?s=400&u=5de7ee9539e51cfc7a5f6f1a4522ad37a1a0eb13&v=4
+iconurl: https://avatars3.githubusercontent.com/u/32656684?s=400&amp;u=5de7ee9539e51cfc7a5f6f1a4522ad37a1a0eb13&amp;v=4
 sass:
         sass_dir: _sass
         style: compressed
