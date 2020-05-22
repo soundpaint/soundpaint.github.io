@@ -3,7 +3,7 @@
 This page contains useful notes useful mostly for myself for authoring
 this site.
 
-## Github Markdown
+## GitHub Markdown
 
 <table>
   <tr>
@@ -49,9 +49,9 @@ Syntax highlighted code block
 
 ## Useful Links for Authoring this Site
 
-- [editor on GitHub](https://github.com/soundpaint/soundpaint.github.io/edit/master/README.md)
+- [GitHub Online Editor](https://github.com/soundpaint/soundpaint.github.io/edit/master/README.md)
 - [Jekyll](https://jekyllrb.com/)
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-- [repository settings](https://github.com/soundpaint/soundpaint.github.io/settings)
-- [documentation](https://help.github.com/categories/github-pages-basics/)
-- [contact support](https://github.com/contact)
+- [Repository Settings](https://github.com/soundpaint/soundpaint.github.io/settings)
+- [GitHub Pages Documentation](https://help.github.com/categories/github-pages-basics/)
+- [GitHub Support](https://github.com/contact)
