@@ -1,3 +1,3 @@
-## SoundPaint (Jürgen Reuter)
+# SoundPaint (Jürgen Reuter)
 
 (To be done.)
