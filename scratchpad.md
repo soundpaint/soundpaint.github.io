@@ -1,8 +1,8 @@
-## Scratch Pad
+# Scratch Pad
 
 This page contains useful notes useful mostly for myself.
 
-### Github Markdown
+## Github Markdown
 
 ```markdown
 Syntax highlighted code block
@@ -22,7 +22,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-### Useful Links for Authoring this Site
+## Useful Links for Authoring this Site
 
 - [editor on GitHub](https://github.com/soundpaint/soundpaint.github.io/edit/master/README.md)
 - [Jekyll](https://jekyllrb.com/)

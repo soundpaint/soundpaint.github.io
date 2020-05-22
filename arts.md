@@ -1,4 +1,4 @@
-# List of Arts Projects and Public Performances
+# List of My Arts Projects and Public Performances
 
 This web page lists most of my arts projects and public performances
 (including music), and links to additional material such as
