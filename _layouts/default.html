@@ -1,20 +1,30 @@
-<!DOCTYPE html>
-<html lang="de">
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>{{ page.title | default: site.title }}</title>
-  <link rel="stylesheet" href="assets/css/styles.css">
-</head>
-
-<body>
-  <div id="frame">
-    <div id="header">
-      {% include _nav.html %}
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="description" content="{{ page.description }}" />
+    <meta name="keywords" content="{{ page.keywords }}" />
+    <link rel="stylesheet" href="assets/css/styles.css" type="text/css" />
+    <link rel="icon" href="{{ page.icon }}" />
+    <title>{{ page.title | default: site.title }}</title>
+  </head>
+  <body>
+    <div id="frame">
+      <div id="header">
+        {% include _nav.html %}
+      </div>
+      <div id="main">
+        {{ content }}
+      </div>
     </div>
-    <div id="main">
-      {{ content }}
-    </div>
-  </div>
-</body>
+  </body>
+</html>
+<!--
+    Local Variables:
+    coding:utf-8
+    mode:sgml
+    mode:nXML
+    End:
+-->
