@@ -1,76 +1,45 @@
 html {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 1rem;
-    line-height: 1.5;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1em;
+  line-height: 1.5;
 }
 
-body {
-    margin: 1.5em;
-}
-
-@for $index from 1 through 6 {
-    h#{$index} {
-        font-weight: 200;
-        line-height: 1.5em;
-        letter-spacing: -0.025em;
-    }
-}
-
-#frame {
-    width: 100%;
-    max-width: 1200px;
-    margin: 0 auto;
-    display: grid;
-    grid-template-areas:
-        "nav"
-        "main"
-}
-
-
-@media only screen and (min-width: 800px) {
-    #frame {
-        width: 90%;
-        grid-template-areas:
-            "nav"
-            "main";
-    }
-}
-
-@media only screen and (min-width: 1200px) {
-    #frame {
-        width: 75%;
-    }
-}
-
-p {
-    margin-top: 1.25em;
+a {
+  text-decoration: none;
+  color: #000;
 }
 
 .nav {
-    grid-area: nav;
-    display: inline-block;
-
-    h1 {
-        font-size: 2em;
-        margin-bottom: 1em;
-
-        a {
-            text-decoration: none;
-        }
-    }
+  grid-area: nav;
+  display: inline-block;
+  background-color: #ddd;
+  overflow: hidden;
 }
 
-#main {
-    grid-area: main;
+.nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
 
-    @for $index from 1 through 6 {
-        h#{$index} {
-            margin-top: 1.25em;
-            margin-bottom: .75em;
-        }
+.nav a {
+  font-size: 1em;
+  color: #555;
+  float: left;
+  text-align: center;
+  padding: 6px 8px;
+}
 
-        h#{$index}+p {
-            margin-top: 0em;
-        }
-    }
+.nav a:hover {
+  background-color: #888;
+  color: black;
+}
+
+.nav a:active {
+  background-color: #333;
+  color: white;
+}
+
+#main h1 {
+  font-weight: 200;
 }
