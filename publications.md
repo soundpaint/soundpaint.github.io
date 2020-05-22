@@ -1,6 +1,6 @@
 ---
-keywords: publications,papers,slides,videos
-description:list of my publications
+categories: publications papers slides videos
+description: list of my publications
 ---
 
 # My Publications
