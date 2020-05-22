@@ -1,3 +1,8 @@
+---
+keywords: publications,papers,slides,videos
+description:list of my publications
+---
+
 # My Publications
 
 This web page lists most of my publications, and links to material
