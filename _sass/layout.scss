@@ -9,7 +9,6 @@ html {
 }
 
 a {
-  text-decoration: none;
   color: #000;
 }
 
@@ -25,7 +24,8 @@ a {
 }
 
 .nav div a {
-  font-size: 1em;
+  text-decoration: none;
+  font-size: 0.9em;
   color: #555;
   float: none;
   text-align: right;
