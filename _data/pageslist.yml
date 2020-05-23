@@ -1,0 +1,20 @@
+pages_list_title: Contents
+pages:
+
+- title: Home
+  url: index.html
+
+- title: My Projects
+  url: projects.html
+
+- title: My Arts
+  url: arts.html
+
+- title: My Publications
+  url: publications.html
+
+- title: Resume
+  url: resume.html
+
+- title: Scratch Pad
+  url: scratchpad.html
