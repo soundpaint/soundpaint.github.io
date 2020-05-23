@@ -2,19 +2,19 @@ pages_list_title: Contents
 pages:
 
 - title: Home
-  url: index.html
+  url: /
 
 - title: My Projects
-  url: projects.html
+  url: /projects.html
 
 - title: My Arts
-  url: arts.html
+  url: /arts.html
 
 - title: My Publications
-  url: publications.html
+  url: /publications.html
 
 - title: Resume
-  url: resume.html
+  url: /resume.html
 
 - title: Scratch Pad
-  url: scratchpad.html
+  url: /scratchpad.html
