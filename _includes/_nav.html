@@ -3,6 +3,9 @@
              <a href="/">{{ page.title | default: site.title }}</a>
         -->
         <div class="left-bar">
+          <img style="border:0;width:62px;height:62px"
+               src="images/logo.png"
+               alt="logo" />
           <nav class="nav">
 {% for item in site.data.pageslist.pages %}
             <div class="{% if item.url != page.url %}non{% endif %}active">
