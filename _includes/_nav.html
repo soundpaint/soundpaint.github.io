@@ -2,10 +2,26 @@
         <!-- TODO: Bread Crumb Navigation
              <a href="/">{{ page.title | default: site.title }}</a>
         -->
-        <nav class="nav">
+        <div class="left-bar">
+          <nav class="nav">
 {% for item in site.data.pageslist.pages %}
-          <div class="{% if item.url != page.url %}non{% endif %}active">
-            <a href="{{ item.url }}">{{ item.title }}</a>
-          </div>
+            <div class="{% if item.url != page.url %}non{% endif %}active">
+              <a href="{{ item.url }}">{{ item.title }}</a>
+            </div>
 {% endfor %}
-        </nav>
+          </nav>
+          <div id="validator-icons">
+            <p>
+              <a href="https://validator.w3.org/check?uri=referer">
+                <img style="border:0;width:88px;height:31px"
+                     src="http://www.w3.org/Icons/valid-xhtml10"
+                     alt="Valid XHTML 1.0 Strict" />
+              </a>
+              <a href="https://jigsaw.w3.org/css-validator/check/referer">
+                <img style="border:0;width:88px;height:31px"
+                     src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
+                     alt="Valid CSS!" />
+              </a>
+            </p>
+          </div>
+        </div>

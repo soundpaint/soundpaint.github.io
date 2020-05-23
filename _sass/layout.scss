@@ -12,14 +12,17 @@ a {
   color: #000;
 }
 
-.nav {
-  grid-area: nav;
+.left-bar {
+  background-color: #ddd;
   position: fixed;
   top: 0;
   left: 0;
   width: 150px;
+}
+
+.nav {
+  grid-area: nav;
   display: inline-grid;
-  background-color: #ddd;
   overflow: hidden;
 }
 
