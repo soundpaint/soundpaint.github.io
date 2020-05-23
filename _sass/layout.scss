@@ -27,9 +27,10 @@ a {
 .nav div a {
   font-size: 1em;
   color: #555;
-  float: left;
-  text-align: center;
+  float: none;
+  text-align: right;
   padding: 6px 8px;
+  display: block;
 }
 
 .nav div a:hover {
@@ -38,7 +39,8 @@ a {
 }
 
 .nav div.active a {
-  color: #aaa;
+  color: #fff;
+  background-color: #aaa;
   cursor: default;
 }
 

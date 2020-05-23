@@ -3,7 +3,6 @@
              <a href="/">{{ page.title | default: site.title }}</a>
         -->
         <nav class="nav">
-          <a href="{{ page.url }}">This Page</a>
 {% for item in site.data.pageslist.pages %}
           <div class="{% if item.url != page.url %}non{% endif %}active">
             <a href="{{ item.url }}">{{ item.title }}</a>
