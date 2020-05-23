@@ -16,14 +16,15 @@ a {
   background-color: #ddd;
   position: fixed;
   top: 0;
+  bottom: 0;
   left: 0;
   width: 150px;
 }
 
 .nav {
-  grid-area: nav;
   display: inline-grid;
   overflow: hidden;
+  width: 100%;
 }
 
 .nav div a {
@@ -54,4 +55,10 @@ a {
 
 #main h1 {
   font-weight: 200;
+}
+
+#validator-icons {
+  position: fixed;
+  bottom: 0;
+  width: 150px;
 }
