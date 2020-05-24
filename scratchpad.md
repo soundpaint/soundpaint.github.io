@@ -1,22 +1,8 @@
 ---
 categories: "scratch pad, documentation, links"
 description: scratch pad for helping me authoring this website
+style: TRUE
 ---
-
-<style>
-.md-container {
-  display: grid;
-  grid-template: auto / auto auto;
-  grid-gap: 2px;
-  background-color: #888;
-  padding: 2px;
-}
-
-.md-container > div {
-  background-color: rgba(255, 255, 255, 0.8);
-  padding: 5px 5px;
-}
-</style>
 
 # Scratch Pad
 
