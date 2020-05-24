@@ -90,4 +90,5 @@ online available all projects.
   using the Web Ontology Language (OWL).
 
 For a complete list of my projects currently available on GitHub, see
-[my repositories on GitHub](https://github.com/soundpaint/).
+[my repositories on
+GitHub](https://github.com/soundpaint?tab=repositories).
