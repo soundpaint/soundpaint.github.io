@@ -8,7 +8,12 @@
                alt="logo" />
           <nav class="nav">
 {% for item in site.data.pageslist.pages %}
-            <div class="{% if item.url != page.url %}non{% endif %}active">
+{% if item.url == page.url %}
+            <div class="active">
+              <span>{{ item.title }}</span>
+            </div>
+{% else %}
+            <div class="nonactive">
               <a href="{{ item.url }}">{{ item.title }}</a>
             </div>
 {% endfor %}
