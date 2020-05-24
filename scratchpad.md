@@ -56,6 +56,7 @@ Syntax highlighted code block
 
 - [GitHub Online Editor](https://github.com/soundpaint/soundpaint.github.io/edit/master/README.md)
 - [Jekyll](https://jekyllrb.com/)
+- [Liquid Template Language](https://shopify.github.io/liquid/)
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Repository Settings](https://github.com/soundpaint/soundpaint.github.io/settings)
 - [GitHub Pages Documentation](https://help.github.com/categories/github-pages-basics/)

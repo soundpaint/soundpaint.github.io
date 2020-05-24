@@ -133,3 +133,6 @@ documentation or project sites, when available.
 * 1982
   * _Marienwürmchen_ aus _Des Knaben Wunderhorn_, solo performance
     (with piano accomp.) @ St. Martins-Chorknaben, Bad Ems.
+
+A very small selection of my musical works is available on [my
+SoundCloud profile](https://soundcloud.com/soundpaint-1).
