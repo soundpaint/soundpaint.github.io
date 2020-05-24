@@ -9,13 +9,14 @@
           <nav class="nav">
 {% for item in site.data.pageslist.pages %}
 {% if item.url == page.url %}
-            <div class="active">
+            <div class="nonactive">
               <span>{{ item.title }}</span>
             </div>
 {% else %}
-            <div class="nonactive">
+            <div class="active">
               <a href="{{ item.url }}">{{ item.title }}</a>
             </div>
+{% endif %}
 {% endfor %}
           </nav>
           <div id="site-status">
