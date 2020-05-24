@@ -49,7 +49,7 @@ online available all projects.
   approximating Euclidian norm rather than minimum norm.  I originally
   devised this cellular automaton around 1986, while looking how to
   approximate creation of perfect circles with cellular automatons,
-  but then lost the original code, and re-invented it in 2008.  The
+  but then lost the original code, and re-invented it in 2007.  The
   automaton's rather simple set of rules somewhat resemble certain
   aspects of Maxwell's laws.  Implemented as Java Swing application.
 
