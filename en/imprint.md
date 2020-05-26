@@ -1,7 +1,7 @@
 # Imprint
 
-On this web site, I am documenting my arts and technology projects
-that I am pursuing in my spare time and without any intent of profit.
+On this website, I am documenting my arts and technology projects that
+I am pursuing in my spare time and without any intent of profit.
 
 ## Responsible for the content (pursuant to §5 TMG):
 

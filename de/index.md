@@ -3,7 +3,7 @@ categories: "Index, Hauptseite, einstiegsseite"
 description: Einstiegsseite meiner Website
 ---
 
-# Jürgen Reuter (SoundPaint)
+# Über mich
 
 Zur Zeit lebe ich in Karlsruhe und versuche, meine Expertise im
 Bereich Forschung und Entwicklung als Softwareentwickler und

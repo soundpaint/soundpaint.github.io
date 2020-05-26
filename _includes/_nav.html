@@ -8,7 +8,7 @@
                  src="../images/logo.png"
                  alt="logo" />
           </div>
-          <div style="clear:both" />
+{% assign lang = page.url | slice: 1, 2 %}
 {% assign page_base = page.url |
    remove_first: '/en/' |
    remove_first: '/de/'
@@ -23,11 +23,11 @@
 {% for item in site.data.pageslist.pages %}
 {% if item.url == norm_page_base %}
             <div class="active-nav">
-              <span>{{ item.title }}</span>
+              <span>{{ item.title[lang] }}</span>
             </div>
 {% else %}
             <div class="inactive-nav">
-              <a href="{{ item.url }}">{{ item.title }}</a>
+              <a href="{{ item.url }}">{{ item.title[lang] }}</a>
             </div>
 {% endif %}
 {% endfor %}
@@ -40,7 +40,6 @@
   {% assign norm_lang_base = page_base %}
 {% endif %}
           <p class="lang-select">
-{% assign lang = page.url | slice: 1, 2 %}
 {% if lang == 'en' %}
             <span class="inactive-lang">🇬🇧 English</span>
 {% else %}
@@ -58,13 +57,9 @@
 {% endif %}
           </p>
             <p>
-              Site last updated:<br />
-              {{ site.time }}
-            </p>
-            <p>
               <a href="https://validator.w3.org/check?uri=referer">
                 <img style="border:0;width:88px;height:31px"
-                     src="http://www.w3.org/Icons/valid-xhtml10"
+                     src="http://www.w3.org/Icons/valid-xhtml10-blue"
                      alt="Valid XHTML 1.0 Strict" />
               </a>
               <a href="https://jigsaw.w3.org/css-validator/check/referer">
@@ -72,6 +67,10 @@
                      src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
                      alt="Valid CSS!" />
               </a>
+            </p>
+            <p>
+              Site last updated:<br />
+              {{ site.time }}
             </p>
           </div>
         </div>

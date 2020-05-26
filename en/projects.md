@@ -1,4 +1,4 @@
-# My Projects
+# My R&amp;D Projects
 
 I have put some of my projects online.  In particular, I have made
 available the following projects on GitHub.  Note that this is just a

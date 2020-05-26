@@ -26,9 +26,11 @@ a {
 }
 
 .nav {
+  clear: both;
   display: inline-grid;
   overflow: hidden;
   width: 100%;
+  padding-top: 5px;
 }
 
 .nav div a, .nav div span {

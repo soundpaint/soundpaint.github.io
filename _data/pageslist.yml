@@ -1,26 +1,42 @@
 pages_list_title: Contents
 pages:
 
-- title: Home
+- title:
+    "en": "About me"
+    "de": "Über mich"
   url: index.html
 
-- title: My Projects
+- title:
+    "de": "Forschung und Entwicklung"
+    "en": "R &amp; D"
   url: projects.html
 
-- title: My Arts
+- title:
+    "de": "Künstlerisches"
+    "en": "Arts"
   url: arts.html
 
-- title: My Publications
+- title:
+    "de": "Veröffentlichungen"
+    "en": "Publications"
   url: publications.html
 
-- title: Resume
+- title:
+    "de": "Lebenslauf"
+    "en": "Resume"
   url: resume.html
 
-- title: Scratch Pad
+- title:
+    "de": "Notizen"
+    "en": "Scratch Pad"
   url: scratchpad.html
 
-- title: News
+- title:
+    "de": "Neuigkeiten"
+    "en": "News"
   url: news.html
 
-- title: Imprint
+- title:
+    "de": "Impressum"
+    "en": "Imprint"
   url: imprint.html

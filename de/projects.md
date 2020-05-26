@@ -1,4 +1,4 @@
-# Meine Projekte
+# Meine Projekte aus den Bereichen Forschung &amp; Entwicklung
 
 Einige meiner Projekte habe ich online gestellt.  Insbesondere die
 folgend aufgelisteten Projekte sind auf GitHub verfügbar.  Zu beachten

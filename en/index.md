@@ -3,7 +3,7 @@ categories: "index, main page, landing page"
 description: landing page of my website
 ---
 
-# Jürgen Reuter (SoundPaint)
+# About me
 
 Currently living in Karlsruhe, Germany, I am trying to combine my
 R&amp;D expertise as software engineer / software architect with my
