@@ -3,23 +3,64 @@
              <a href="/">{{ page.title | default: site.title }}</a>
         -->
         <div class="left-bar">
-          <img style="border:0;width:62px;height:62px;float:right"
-               src="images/logo.png"
-               alt="logo" />
+          <div>
+            <img style="border:0;width:62px;height:62px;float:right"
+                 src="../images/logo.png"
+                 alt="logo" />
+          </div>
+          <div style="clear:both" />
+{% assign page_base = page.url |
+   remove_first: '/en/' |
+   remove_first: '/de/'
+%}
+{% if page_base != '/' %}
           <nav class="nav">
+{% if page_base == '' %}
+  {% assign norm_page_base = 'index.html' %}
+{% else %}
+  {% assign norm_page_base = page_base %}
+{% endif %}
 {% for item in site.data.pageslist.pages %}
-{% if item.url == page.url %}
-            <div class="active">
+{% if item.url == norm_page_base %}
+            <div class="active-nav">
               <span>{{ item.title }}</span>
             </div>
 {% else %}
-            <div class="nonactive">
+            <div class="inactive-nav">
               <a href="{{ item.url }}">{{ item.title }}</a>
             </div>
 {% endif %}
 {% endfor %}
           </nav>
+{% endif %}
           <div id="site-status">
+{% if page_base == '/' %}
+  {% assign norm_lang_base = 'index.html' %}
+{% else %}
+  {% assign norm_lang_base = page_base %}
+{% endif %}
+          <p class="lang-select">
+{% assign lang = page.url | slice: 1, 2 %}
+{% if lang == 'en' %}
+            <span class="inactive-lang">🇬🇧 English</span>
+{% else %}
+            <span class="active-lang">
+              <a href="../en/{{ norm_lang_base }}">🇬🇧 English</a>
+            </span>
+{% endif %}
+            <br />
+{% if lang == 'de' %}
+            <span class="inactive-lang">🇩🇪 Deutsch</span>
+{% else %}
+            <span class="active-lang">
+              <a href="../de/{{ norm_lang_base }}">🇩🇪 Deutsch</a>
+            </span>
+{% endif %}
+          </p>
+            <p>
+              Site last updated:<br />
+              {{ site.time }}
+            </p>
             <p>
               <a href="https://validator.w3.org/check?uri=referer">
                 <img style="border:0;width:88px;height:31px"
@@ -31,10 +72,6 @@
                      src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
                      alt="Valid CSS!" />
               </a>
-            </p>
-            <p>
-              Site last updated:<br />
-              {{ site.time }}
             </p>
           </div>
         </div>

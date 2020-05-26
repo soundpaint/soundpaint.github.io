@@ -6,9 +6,9 @@
     <meta name="description" content="{{ page.description }}" />
     <meta name="keywords" content="{{ page.categories }}" />
     <meta name="hasstyle" content="{{ page.style }}" />
-    <link rel="stylesheet" href="assets/css/styles.css" type="text/css" />
+    <link rel="stylesheet" href="../assets/css/styles.css" type="text/css" />
 {% if page.style %}
-    <link rel="stylesheet" href="assets/css/{{ page.path | remove: '.md' }}.css" type="text/css" />
+    <link rel="stylesheet" href="../assets/css/{{ page.path | remove: '.md' }}.css" type="text/css" />
 {% endif %}
     <link rel="icon" href="{{ site.iconurl }}" />
     <title>{{ page.title | default: site.title }}</title>

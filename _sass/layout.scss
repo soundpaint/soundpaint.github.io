@@ -46,19 +46,31 @@ a {
   color: black;
 }
 
-.nav div.active span {
+.nav div.active-nav span {
   color: #fff;
   background-color: #aaa;
   cursor: default;
 }
 
-.nav div a:active {
+.nav div a:active-nav {
   background-color: #333;
   color: white;
 }
 
+.lang-select {
+  text-align: left;
+}
+
 #main h1 {
   font-weight: 200;
+}
+
+.inactive-lang {
+  opacity: 0.5;
+}
+
+span.active-lang a {
+  text-decoration: none;
 }
 
 #site-status {

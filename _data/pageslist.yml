@@ -2,25 +2,25 @@ pages_list_title: Contents
 pages:
 
 - title: Home
-  url: /
+  url: index.html
 
 - title: My Projects
-  url: /projects.html
+  url: projects.html
 
 - title: My Arts
-  url: /arts.html
+  url: arts.html
 
 - title: My Publications
-  url: /publications.html
+  url: publications.html
 
 - title: Resume
-  url: /resume.html
+  url: resume.html
 
 - title: Scratch Pad
-  url: /scratchpad.html
+  url: scratchpad.html
 
 - title: News
-  url: /news.html
+  url: news.html
 
 - title: Imprint
-  url: /imprint.html
+  url: imprint.html
