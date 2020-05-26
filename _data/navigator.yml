@@ -1,41 +1,33 @@
-pages_list_title: Contents
-pages:
-
+navigator_title: Contents
+entries:
 - title:
     "en": "About me"
     "de": "Über mich"
   url: index.html
-
 - title:
     "de": "Forschung und Entwicklung"
     "en": "R &amp; D"
   url: projects.html
-
 - title:
     "de": "Künstlerisches"
     "en": "Arts"
   url: arts.html
-
 - title:
     "de": "Veröffentlichungen"
     "en": "Publications"
   url: publications.html
-
 - title:
     "de": "Lebenslauf"
     "en": "Resume"
   url: resume.html
-
 - title:
     "de": "Notizen"
     "en": "Scratch Pad"
   url: scratchpad.html
-
 - title:
     "de": "Neuigkeiten"
     "en": "News"
   url: news.html
-
 - title:
     "de": "Impressum"
     "en": "Imprint"

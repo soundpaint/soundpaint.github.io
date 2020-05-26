@@ -8,7 +8,14 @@
     <meta name="hasstyle" content="{{ page.style }}" />
     <link rel="stylesheet" href="../assets/css/styles.css" type="text/css" />
 {% if page.style %}
-    <link rel="stylesheet" href="../assets/css/{{ page.path | remove: '.md' }}.css" type="text/css" />
+{% assign page_base = page.url |
+   remove_first: '/en/' |
+   remove_first: '/de/'
+%}
+{% assign page_css_url = page_base | remove: '.html' | append: '.css' %}
+    <link rel="stylesheet"
+          href="../assets/css/{{ page_css_url }}"
+          type="text/css" />
 {% endif %}
     <link rel="icon" href="{{ site.iconurl }}" />
     <title>{{ page.title | default: site.title }}</title>
@@ -16,7 +23,7 @@
   <body>
     <div id="frame">
       <div id="header">
-        {% include _nav.html %}
+        {% include _sidebar.html %}
       </div>
       <div id="main">
         <div id="content">
