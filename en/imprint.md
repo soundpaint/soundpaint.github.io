@@ -14,10 +14,10 @@ I am pursuing in my spare time and without any intent of profit.
 
 ## Disclaimer
 
-The information contained herein is correct, complete and up-to-date
-to the best of my knowledge and belief.  However, this website,
-including the content provided, will be made available to the user
-without any warranty or guarantees whatsoever, either implied or
+I try to keep the information contained herein as correct, complete
+and up-to-date to the best of my knowledge and belief.  However, this
+website, including the content provided, will be made available to the
+user without any warranty or guarantees whatsoever, either implied or
 expressly.  Access and use of this website is at the user’s own risk.
 
 I am not responsible or liable for damage arising from or in

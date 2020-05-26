@@ -1,8 +1,8 @@
 # Impressum
 
 Mit dieser Website dokumentiere ich meine künstlerischen und
-technologischen Projekte, die ich in meiner Freizeit und ohne jegliche
-kommerzielle Absicht verfolge.
+technologischen Projekte, die ich in meiner Freizeit und ohne
+Gewinnabsicht verfolge.
 
 ## Verantwortlich für den Inhalt (gemäß §5 TMG):
 
