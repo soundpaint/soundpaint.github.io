@@ -1,7 +1,7 @@
 # Jürgen Reuter
 
-<script type="text/javascript">
-  //document.ready(window.location.href = '/en/');
+<script>
+  document.ready(window.location.href = '/en/');
 </script>
 
 Please select a language on the left side bar to enter my website.
