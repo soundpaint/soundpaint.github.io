@@ -5,6 +5,8 @@ description: landing page of my website
 
 # Dear visitor,
 
+<img src="../images/me.png" style="float:right;width:98px;padding:10px" />
+
 welcome to my website!  Currently living in Karlsruhe, Germany, I am
 trying to combine my R&amp;D expertise as software engineer / software
 architect with my knowledge and experience in the fields of musical
