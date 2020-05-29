@@ -2,7 +2,10 @@
         <hr />
         <div id="address">
           <address>
-            This web site is maintained by
-            <a href="https://www.juergen-reuter.de/">Jürgen Reuter</a>.
+{{
+site.data.i18n.entries["maintainedBy"][lang] |
+replace: "[maintainer]",
+'<a href="https://www.juergen-reuter.de/">Jürgen Reuter</a>'
+}}
           </address>
         </div>
