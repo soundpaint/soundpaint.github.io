@@ -1,15 +1,20 @@
 #main {
-    position: absolute;
-    left: 150px;
-    right: 0;
-    top: 0;
-    margin: 10px;
+  position: absolute;
+  left: 150px;
+  right: 0;
+  top: 0px;
+  padding-left: 10px;
+}
+
+#main h1 {
+  font-weight: 200;
 }
 
 html {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 1em;
   line-height: 1.5;
+  background-color: #eee;
 }
 
 a {
@@ -25,15 +30,17 @@ a {
   width: 150px;
 }
 
-.nav {
+.page-nav {
+  position: fixed;
+  top: 62px;
+  width: inherit;
   clear: both;
   display: inline-grid;
   overflow: hidden;
-  width: 100%;
   padding-top: 5px;
 }
 
-.nav div a, .nav div span {
+.page-nav div a, .page-nav div span {
   text-decoration: none;
   font-size: 0.9em;
   color: #555;
@@ -43,28 +50,31 @@ a {
   display: block;
 }
 
-.nav div a:hover {
+.page-nav div a:hover {
   background-color: #888;
   color: black;
 }
 
-.nav div.active-nav span {
+.page-nav div.active-nav span {
   color: #fff;
   background-color: #aaa;
   cursor: default;
 }
 
-.nav div a:active {
+.page-nav div a:active {
   background-color: #333;
   color: white;
 }
 
-.lang-select {
-  text-align: left;
+.lang-nav {
+  clear: both;
+  display: inline-grid;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 2px;
 }
 
-#main h1 {
-  font-weight: 200;
+.lang-select {
 }
 
 .inactive-lang {
@@ -75,10 +85,33 @@ span.active-lang a {
   text-decoration: none;
 }
 
+#header {
+  position: fixed;
+  top: 0;
+  left: 150px;
+  right: 0;
+  height: 2px;
+  background-image: linear-gradient(to left,#753a88,#ddd);
+  font-size: 0.7em;
+  text-align: right;
+  padding-right: 4px;
+}
+
 #sidebar-footer {
   position: fixed;
   bottom: 0;
   width: 150px;
   font-size: 0.7em;
   color: #555;
+  padding-left: 2px;
+}
+
+#branding-area {
+  position: fixed;
+  top: 0px;
+  font-family: Arial;
+  font-variant: small-caps;
+  padding-top: 2px;
+  padding-left: 2px;
+  padding-right: 5px;
 }

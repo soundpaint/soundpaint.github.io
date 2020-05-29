@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+{% include _init_page_variables.html %}
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
@@ -22,9 +23,7 @@
   </head>
   <body>
     <div id="frame">
-      <div id="header">
-        {% include _sidebar.html %}
-      </div>
+      {% include _sidebar.html %}
       <div id="main">
         <div id="content">
           {{ content }}
@@ -33,6 +32,7 @@
           {% include _footer.html %}
         </div>
       </div>
+      {% include _header.html %}
     </div>
   </body>
 </html>
