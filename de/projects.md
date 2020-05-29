@@ -13,7 +13,7 @@ aufbereitet habe.
   Swing-Anwendung.
 
 * [ML-Bibliothek](https://github.com/soundpaint/ml)<br /> Meine
-  persönliche Variante einer minimalen, an TensorFlow angelehnte
+  persönliche Variante einer minimalen, an TensorFlow angelehnten
   Bibliothek für maschninelles Lernen und mehr, implementiert in Java
   (in frühem Stadium; noch nicht produktiv einsetzbar).
 
@@ -120,3 +120,17 @@ aufbereitet habe.
 Für eine vollständige Liste aller meiner derzeit auf GitHub
 verfügbaren Projekte siehe die [Liste meiner Repositories auf
 GitHub](https://github.com/soundpaint?tab=repositories).
+
+## Projektbeteiligungen (Auswahl)
+
+Bei den folgenden Projekten habe ich als Co-Autor mitgewirkt:
+
+* [GNU LilyPond](https://lilypond.org)<br /> Meine Beiträge:
+  u.a. historische Notation (Neumen, Ligaturen, Zeichensätze),
+  zeitgenössische Notation (Clusters, Ambitus, Spezielle
+  Notenzeichen).
+
+* [JavaParty](https://ps.ipd.kit.edu/english/180_461.php)<br /> Meine
+  Beiträge: u.a. transparente Fäden.
+
+* [RFC 3253](https://tools.ietf.org/html/rfc3253)<br />

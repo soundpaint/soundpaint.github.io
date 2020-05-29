@@ -133,7 +133,9 @@ Projektseiten, sofern verfügbar.
 
 * 1982
   * _Marienwürmchen_ aus _Des Knaben Wunderhorn_, solo performance
-    (with piano accomp.) @ St. Martins-Chorknaben, Bad Ems.
+    (with piano accomp.) @
+    [St. Martins-Chorknaben](https://www.st-martins-chor.de/), Bad
+    Ems.
 
 Eine seher kleine Auswahl meiner musikalischen Werke sind auf [meinem
 SoundCloud-Profil](https://soundcloud.com/soundpaint-1) zu finden.

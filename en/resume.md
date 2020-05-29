@@ -3,6 +3,6 @@ categories: "resume, biography, vita"
 description: resume of my vita
 ---
 
-# Resume
+# About Me
 
 (To be added.)

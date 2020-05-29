@@ -16,8 +16,8 @@ auch als Quelltext, je nachdem, welche Form mir angemessen erscheint.
 * _Notensatz im 21. Jahrhundert – Entwicklungen und Perspektiven.
   Bericht von der Notensatzkonferenz in Salzburg._ In [_Musica
   Sacra_](https://www.musica-sacra-online.de), vol. 140, no. 2
-  (Ausg. 2/2020), pp. 80-81, April 1st, 2020.  Bärenreiter-Verlag,
-  Kassel, Germany.
+  (Ausg. 2/2020), pp. 80-81, April 1st, 2020, B 20503 F.
+  Bärenreiter-Verlag, Kassel, Germany.  ISSN 0197-356x.
 
 * _Formale Modellierung gregorianischer Neumen zur Repräsentation in
   Notationssoftware am Beispiel von LilyPond._ Talk @ Music Engraving

@@ -1,8 +1,8 @@
 navigator_title: Contents
 entries:
 - title:
-    "en": "About me"
-    "de": "Über mich"
+    "en": "Welcome"
+    "de": "Begrüßung"
   url: index.html
 - title:
     "de": "Forschung und Entwicklung"
@@ -17,17 +17,17 @@ entries:
     "en": "Publications"
   url: publications.html
 - title:
-    "de": "Lebenslauf"
-    "en": "Resume"
+    "de": "Über mich"
+    "en": "About Me"
   url: resume.html
-- title:
-    "de": "Notizen"
-    "en": "Scratch Pad"
-  url: scratchpad.html
 - title:
     "de": "Neuigkeiten"
     "en": "News"
   url: news.html
+- title:
+    "de": "Notizen"
+    "en": "Scratch Pad"
+  url: scratchpad.html
 - title:
     "de": "Impressum"
     "en": "Imprint"

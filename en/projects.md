@@ -93,3 +93,16 @@ online available all projects.
 For a complete list of my projects currently available on GitHub, see
 [my repositories on
 GitHub](https://github.com/soundpaint?tab=repositories).
+
+## Project Contributions (Selection)
+
+I am co-author of the following projects:
+
+* [GNU LilyPond](https://lilypond.org)<br /> My contributions: ancient
+  notation (neumes, ligatures, fonts), contemporary notation
+  (clusters, ambits, special font glyphs), and more.
+
+* [JavaParty](https://ps.ipd.kit.edu/english/180_461.php)<br /> My
+  contributions: transparent threads, and more.
+
+* [RFC 3253](https://tools.ietf.org/html/rfc3253)<br />

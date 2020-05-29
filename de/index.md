@@ -3,16 +3,17 @@ categories: "Index, Hauptseite, einstiegsseite"
 description: Einstiegsseite meiner Website
 ---
 
-# Über mich
+# Lieber Besucher,
 
-Zur Zeit lebe ich in Karlsruhe und versuche, meine Expertise im
-Bereich Forschung und Entwicklung als Softwareentwickler und
--architekt mit meinen Kenntnissen und Erfahrungen im Bereich der
-Musikkomposition und -aufführung und der Kunst, wie auch der
-Naturwissenschaften und Mathematik zu verbinden.
+herzlich willkommen auf meiner Website!  Zur Zeit lebe ich in
+Karlsruhe und versuche, meine Expertise im Bereich Forschung und
+Entwicklung als Softwareentwickler und -architekt mit meinen
+Kenntnissen und Erfahrungen im Bereich der Musikkomposition und
+-aufführung und der Kunst, wie auch der Naturwissenschaften und
+Mathematik zu verbinden.
 
-Die Inspiration für die meisten meiner Projekte entspringt tatsächlich
-eines mathematischen Problems, das ich angehen und dabei erforschen
+Die Inspiration für viele meiner Projekte entspringt tatsächlich einem
+mathematischen Sachverhalt, den ich angehen und dabei durchdringen
 möchte.  Diese Bemühung mag dabei durchaus in eine völlig unerwartete
 Richtung driften, mit komplett neuen und unvorhergesehenen
 Ergebnissen.  Während meine Projekte auf den ersten Blick
