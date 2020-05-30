@@ -21,3 +21,11 @@ at first sight, my projects may seem to be completely unrelated, my
 personal way of approaching issues forms an invisible, yet pervasive
 intellectual bond running like a thread through all of my projects,
 that strives to create a big whole.
+
+## Further Sites
+
+I am also contributing content on the following platforms:
+
+* [GitHub](https://github.com/soundpaint/)
+* [SoundCloud](https://soundcloud.com/soundpaint-1)
+* [YouTube](https://www.youtube.com/channel/UC0ihifwVXeluzI3BIwGtZRw)

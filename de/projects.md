@@ -14,7 +14,8 @@ aufbereitet habe.
   sie etwa beim Klimawandel relevant sind.  Implementiert als Java
   Swing-Anwendung.  Beitrag zum Begleitprogramm der ZKM-Ausstellung <a
   href="https://zkm.de/en/exhibition/2020/05/critical-zones">Critical
-  Zones</a>.
+  Zones</a> als Teil der Netzwerkinitiative „Artists4Future
+  Karlsruhe“.
 
 {% include _figure.html
    link="https://raw.githubusercontent.com/soundpaint/tipping-points/master/doc/images/screenshot_v0_1.png"
@@ -60,11 +61,12 @@ aufbereitet habe.
 %}
 
 * [Diskrete spektrale Transformation
-  (DST)](https://github.com/soundpaint/dst)<br /> A Java-Bibliothek
-  (und kleine Beispielanwendungen), die meine diskrete spektrale
+  (DST)](https://github.com/soundpaint/dst)<br /> Eine Java-Bibliothek
+  (mit kleinen Beispielanwendungen), die meine diskrete spektrale
   Transformation (DST) implementieren.  Meine DST ist konzipiert als
   Ersatz für die DFT in Situationen, in denen schnelle Veränderungen
-  im Spektrum relevant sind.
+  im Spektrum relevant sind und daher nicht vernachlässigt werden
+  dürfen.
 
 {% include _figure.html
    link="https://raw.githubusercontent.com/soundpaint/dst/master/media/spectrum_dst_0.99999.png"
@@ -182,7 +184,7 @@ GitHub](https://github.com/soundpaint?tab=repositories).
 
 ## Projektbeteiligungen (Auswahl)
 
-Bei folgenden Projekten war ich Co-Autor bzw. mit inhaltlichen
+Bei folgenden Projekten bin ich Co-Autor bzw. mit inhaltlichen
 Beiträgen beteiligt:
 
 * [GNU LilyPond](https://lilypond.org)<br /> Meine Beiträge:

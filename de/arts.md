@@ -3,11 +3,11 @@ categories: "Kunst, Musik, Kunstprojekte, Aufführungen, Videos, Dokumentationen
 description: Liste meiner Kunstprojekte und öffentlichen Aufführungen
 ---
 
-# Liste meiner Kunstprojekte und öffentlichen Aufführungen
+# Liste meiner Kunstprojekte und öffentlichen Aufführungen (Auswahl)
 
-Nachstehend aufgelistet sind meine Kunstprojekte und öffentlichen
-Aufführungen (einschließlich musikalischer Aufführungen), mit
-Verlinkungen zu zusätzlichen Matrialien wie Dokumentation oder
+Nachstehend aufgelistet sind einige meiner Kunstprojekte und
+öffentlichen Aufführungen (einschließlich musikalischer Aufführungen),
+mit Verlinkungen zu zusätzlichen Matrialien wie Dokumentation oder
 Projektseiten, sofern verfügbar.
 
 * 2019

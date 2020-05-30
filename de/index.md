@@ -23,3 +23,12 @@ zusammenhanglos erscheinen, sind sie durch ein unsichtbares,
 tiefgreifendes geistiges Band verbunden, das durch meine persönliche
 Herangehensweise geprägt ist und sich im Streben nach einem großen
 Ganzen wie ein roter Faden durch alle meine Projekte zieht.
+
+## Weitere Präsenzen
+
+Neben dieser Website bin ich insbesondere auf folgenden Plattformen
+mit eigenen Beiträgen präsent:
+
+* [GitHub](https://github.com/soundpaint/)
+* [SoundCloud](https://soundcloud.com/soundpaint-1)
+* [YouTube](https://www.youtube.com/channel/UC0ihifwVXeluzI3BIwGtZRw)

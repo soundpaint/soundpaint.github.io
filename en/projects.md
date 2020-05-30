@@ -13,7 +13,8 @@ online available all projects.
   application.  Contribution to the supporting programme of the ZKM
   exhibition <a
   href="https://zkm.de/en/exhibition/2020/05/critical-zones">Critical
-  Zones</a>.
+  Zones</a> as part of the network initiative “Artists4Future
+  Karlsruhe”.
 
 {% include _figure.html
    link="https://raw.githubusercontent.com/soundpaint/tipping-points/master/doc/images/screenshot_v0_1.png"
@@ -60,7 +61,7 @@ online available all projects.
   small example applications) that implements my discrete spectral
   transformation (DST).  My DST is intended as DFT replacement
   particularly for situations when fast changes in spectrum _do_
-  matter.
+  matter and thus may not be neglected.
 
 {% include _figure.html
    link="https://raw.githubusercontent.com/soundpaint/dst/master/media/spectrum_dst_0.99999.png"
@@ -156,7 +157,7 @@ GitHub](https://github.com/soundpaint?tab=repositories).
 
 ## Project Contributions (Selection)
 
-I was co-author of / contributor to the following projects:
+I am co-author of / contributor to the following projects:
 
 * [GNU LilyPond](https://lilypond.org)<br /> My contributions: ancient
   notation (neumes, ligatures, fonts), contemporary notation
