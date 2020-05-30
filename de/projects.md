@@ -18,7 +18,7 @@ aufbereitet habe.
   Karlsruhe“.
 
 {% include _figure.html
-   link="https://raw.githubusercontent.com/soundpaint/tipping-points/master/doc/images/screenshot_v0_1.png"
+   link="https://raw.githubusercontent.com/soundpaint/tipping-points/master/docs/images/screenshot_v0_1.png"
    caption="Bildschirmfoto „Tipping Points App, Version 0.1“"
 %}
 

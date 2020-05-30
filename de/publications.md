@@ -304,6 +304,10 @@ auch als Quelltext, je nachdem, welche Form mir angemessen erscheint.
     Editoren im vorliegenden technischen Bericht wieder.
   </details>
 
+* Jürgen Reuter.  _Klingende Bilder_.  Workshop im Weinbrennerkeller
+  als Beitrag zum 289. Stadtgeburtstag Karlsruhe.  June 17th-20th,
+  2004.
+
 * Jürgen Reuter, Walter F. Tichy.  _Logging Kernel Events on
   Clusters_.  In _Proc. of the Terascale Performance Analysis Workshop
   in conjunction with the International Conference on Computational

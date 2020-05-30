@@ -17,7 +17,7 @@ online available all projects.
   Karlsruhe”.
 
 {% include _figure.html
-   link="https://raw.githubusercontent.com/soundpaint/tipping-points/master/doc/images/screenshot_v0_1.png"
+   link="https://raw.githubusercontent.com/soundpaint/tipping-points/master/docs/images/screenshot_v0_1.png"
    caption="Screenshot of Tipping Points App, Version 0.1"
 %}
 
