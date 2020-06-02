@@ -20,6 +20,13 @@ Projektseiten, sofern verfügbar.
     Karlsruhe, 27. Juni - 06. Juli 2019 (Gruppenausstellung).<br />
     [Doku](https://www.youtube.com/watch?v=VHPs8b5SiW0)
 
+* 2018
+  * _We Wish You a Merry Christmas_.  Chor-Arrangement (SATB) und
+    musikalische Leitung und Einstudierung eines Weihnachts-Jingle für
+    die CAS Software AG.<br />
+   [Video](https://www.youtube.com/watch?v=MxfChryaEjc) |
+   [Score](https://github.com/soundpaint/scores/tree/master/we-wish-you-a-merry-christmas)
+
 * 2017
   * _Freiflug._ In [_UND#9_](http://www.und-1.de/) (Kunstmesse),
     Dragoner-Kaserne Karlsruhe, 20. - 23. Juli 2017

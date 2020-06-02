@@ -19,6 +19,13 @@ documentation or project sites, when available.
     27th - July 6th, 2019 (group show).<br />
     [Resume](https://www.youtube.com/watch?v=VHPs8b5SiW0)
 
+* 2018
+  * _We Wish You a Merry Christmas_.  Arrangement for SATB Choir and
+    musical direction and production of christmas jingle performance
+    for CAS Software AG.<br />
+   [Video](https://www.youtube.com/watch?v=MxfChryaEjc) |
+   [Score](https://github.com/soundpaint/scores/tree/master/we-wish-you-a-merry-christmas)
+
 * 2017
   * _Freiflug._ In [_UND#9_](http://www.und-1.de/) (arts exhibition),
     Dragoner-Kaserne Karlsruhe, July 20th-23rd, 2017 (group show).<br
