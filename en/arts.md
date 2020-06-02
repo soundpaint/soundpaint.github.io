@@ -47,7 +47,8 @@ documentation or project sites, when available.
   * [_Random
     noise_](https://zkm.de/en/event/2014/05/linux-audio-conference-2014-playroom).
     Concert for Sound Column Four Hands (concept + programming +
-    direction) @ LAC 2014, ZKM, Karlsruhe, Germany.<br />
+    direction) @ LAC 2014, ZKM, May 2nd, 2014, Karlsruhe, Germany.<br
+    />
     <details>
       <summary>Abstract</summary>
       Two players give a concert in a competitive manner.  They put
@@ -109,31 +110,34 @@ documentation or project sites, when available.
 * 2005
   * _Kampf von Marathon_ — composition and production of music for
     theatre performance _Chaos Theater_ @ [UniTheater
-    Karlsruhe](https://www.unitheater.de).
+    Karlsruhe](https://www.unitheater.de).<br />
+    [_Sound of the
+    Nymphs_](https://soundcloud.com/soundpaint-1/synth-nymph-a02) |
+    [_Vokalise_](https://soundcloud.com/soundpaint-1/vokalise)
 
 * 2004
   * [_Kunstprozession_](http://www.wolfstieg.com/D/Dokumente/Yol/Texte.htm)
     — composition and production and performance with G. Wolfstieg
     (musical director) @ European Cultural Days Karlsruhe, May 2nd and
-    19th, 2004.
+    19th, 2004.<br />
+    [_Klangschleife_](https://soundcloud.com/soundpaint-1/klangschleife)
 
 * 2003
-  * [_Mobi
-    Song_](https://github.com/soundpaint/scores/tree/master/mobisong)
-    — composition and production of anniversary song for [Mobile
+  * Composition and production of anniversary song for [Mobile
     Spieleaktion](https://mobi-aktion.de) @ Stadtjugendausschuss
-    Karlsruhe, performed on _Das Fest Karlsruhe_, July 19th, 2003.
+    Karlsruhe, performed on _Das Fest Karlsruhe_, July 19th, 2003.<br />
+    [Score](https://github.com/soundpaint/scores/tree/master/mobisong)
 
 * 1998
-  * [_1848/49_](https://github.com/soundpaint/imgsnd#184849) —
-    composition and production of music @ Studio für elektronische
-    Musik Karlsruhe, presented at anniversary of Hochschule Karlsruhe.
+  * _1848/49_ — Composition and production of music @ Studio für
+    elektronische Musik Karlsruhe, presented at anniversary of
+    Hochschule Karlsruhe.<br />
+    [Project Site](https://github.com/soundpaint/imgsnd#184849)
 
 * 1995
-  * [_Metrisches
-    Gewitter_](https://soundcloud.com/soundpaint-1/metric-thunderstorm)
-    — composition and production of music @ Studio für elektronische
-    Musik Karlsruhe.
+  * _Metrisches Gewitter_ — Composition and production of music @
+    Studio für elektronische Musik Karlsruhe.<br />
+    [Recording](https://soundcloud.com/soundpaint-1/metric-thunderstorm)
 
 * 1982
   * _Marienwürmchen_ aus _Des Knaben Wunderhorn_, solo performance

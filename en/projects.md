@@ -45,7 +45,7 @@ online available all projects.
 %}
 
 * [respektomat](https://github.com/soundpaint/respektomat)<br /> The
-  _Respektomat_ is a (ELIZA-inspired, but rather simple-minded)
+  _Respektomat_ is an (ELIZA-inspired, but rather simple-minded)
   implementation of a natural language processor that communicates
   with a human, always anwering with sentences that somehow refer to
   the word _Respekt_, which was the title of the arts exhibition that
