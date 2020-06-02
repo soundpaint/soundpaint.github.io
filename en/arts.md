@@ -108,7 +108,8 @@ documentation or project sites, when available.
 
 * 2005
   * _Kampf von Marathon_ — composition and production of music for
-    theatre performance _Chaos Theater_ @ UniTheater Karlsruhe.
+    theatre performance _Chaos Theater_ @ [UniTheater
+    Karlsruhe](https://www.unitheater.de).
 
 * 2004
   * [_Kunstprozession_](http://www.wolfstieg.com/D/Dokumente/Yol/Texte.htm)
@@ -117,18 +118,22 @@ documentation or project sites, when available.
     19th, 2004.
 
 * 2003
-  * _Mobi Song_ — composition and production of anniversary song for
-    Mobile Spieleaktion @ Stadtjugendausschuss Karlsruhe, performed on
-    _Das Fest Karlsruhe_, July 19th, 2003.
+  * [_Mobi
+    Song_](https://github.com/soundpaint/scores/tree/master/mobisong)
+    — composition and production of anniversary song for [Mobile
+    Spieleaktion](https://mobi-aktion.de) @ Stadtjugendausschuss
+    Karlsruhe, performed on _Das Fest Karlsruhe_, July 19th, 2003.
 
 * 1998
-  * _1848/49_ — composition and production of music @ Studio für
-    elektronische Musik Karlsruhe, presented at anniversary of
-    Hochschule Karlsruhe.
+  * [_1848/49_](https://github.com/soundpaint/imgsnd#184849) —
+    composition and production of music @ Studio für elektronische
+    Musik Karlsruhe, presented at anniversary of Hochschule Karlsruhe.
 
 * 1995
-  * _Metrisches Gewitter_ — composition and production of music @
-    Studio für elektronische Musik Karlsruhe.
+  * [_Metrisches
+    Gewitter_](https://soundcloud.com/soundpaint-1/metric-thunderstorm)
+    — composition and production of music @ Studio für elektronische
+    Musik Karlsruhe.
 
 * 1982
   * _Marienwürmchen_ aus _Des Knaben Wunderhorn_, solo performance
