@@ -18,7 +18,7 @@ Projektseiten, sofern verfügbar.
     Räume](http://www.und-1.de/10tage10raeume/index.html): Tag 4: Poly
     Galerie: „Polymaths und Polymorph“_, Poly Galerie
     Karlsruhe, 27. Juni - 06. Juli 2019 (Gruppenausstellung).<br />
-    [Doku](https://www.youtube.com/watch?v=VHPs8b5SiW0)
+    [Retrospektive](https://www.youtube.com/watch?v=VHPs8b5SiW0)
 
 * 2018
   * _We Wish You a Merry Christmas_.  Chor-Arrangement (SATB) und
@@ -31,7 +31,7 @@ Projektseiten, sofern verfügbar.
   * _Freiflug._ In [_UND#9_](http://www.und-1.de/) (Kunstmesse),
     Dragoner-Kaserne Karlsruhe, 20. - 23. Juli 2017
     (Gruppenausstellung).<br />
-    [Doku](https://www.youtube.com/watch?v=pDwdSbA5rck)
+    [Retrospektive](https://www.youtube.com/watch?v=pDwdSbA5rck)
 
 * 2016
   * _Paint We_.  In _Künstler bei der CAS_ @ CAS Software AG,
@@ -107,7 +107,7 @@ Projektseiten, sofern verfügbar.
   * _Walwanderung_, [_Wahlheimat
     Karlsruhe_](https://zkm.de/de/event/2009/06/wahlheimat) @ ZKM
     Karlsruhe, 06. Juni - 28. Septemer 2009 (Gruppenausstellung).
-  * _Effetti transitori per cantico delle creature_.  Solokoncert @
+  * _Effetti transitori per cantico delle creature_.  Solokonzert @
     LAC 2009, 18. April 2009, Parma, Italien.
 
 * 2008
@@ -158,5 +158,5 @@ Projektseiten, sofern verfügbar.
     [St. Martins-Chorknaben](https://www.st-martins-chor.de/), Bad
     Ems.
 
-Eine sehr kleine Auswahl meiner musikalischen Werke sind auf [meinem
+Eine kleine Auswahl meiner musikalischen Stücke ist auf [meinem
 SoundCloud-Profil](https://soundcloud.com/soundpaint-1) zu finden.

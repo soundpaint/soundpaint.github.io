@@ -152,5 +152,5 @@ documentation or project sites, when available.
     [St. Martins-Chorknaben](https://www.st-martins-chor.de/), Bad
     Ems.
 
-A very small selection of my musical works is available on [my
-SoundCloud profile](https://soundcloud.com/soundpaint-1).
+A small selection of my musical works is available on [my SoundCloud
+profile](https://soundcloud.com/soundpaint-1).
