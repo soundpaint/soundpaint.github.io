@@ -1,10 +1,9 @@
 ---
 keywords: "scratch pad, documentation, links"
 description: scratch pad for helping me authoring this website
+title: Scratch Pad
 style: TRUE
 ---
-
-# Scratch Pad
 
 This page contains useful notes useful mostly for myself for authoring
 this site.

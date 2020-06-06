@@ -1,9 +1,8 @@
 ---
 keywords: "Imprint, Contact"
 description: Imprint
+title: Imprint
 ---
-
-# Imprint
 
 On this website, I am documenting my arts and technology projects that
 I am pursuing in my spare time and without any intent of profit.

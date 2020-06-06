@@ -1,9 +1,8 @@
 ---
 keywords: "publications, papers, slides, videos"
 description: list of my publications
+title: My Publications
 ---
-
-# My Publications
 
 This web page lists most of my publications, and links to material
 such as conference papers, slides of my talks, or additional data

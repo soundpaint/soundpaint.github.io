@@ -1,9 +1,8 @@
 ---
 keywords: "Notizen, Documentationen, externe Verlinkungen"
 description: Notizseite, die mir bei der Pflege dieser Website helfen soll
+title: Notizen
 ---
-
-# Notizen
 
 Diese Seite enthält nützliche Notizen hauptsächlich für mich selbst
 für die Pflege dieser Website.  Die eigentlichen Notizen stehen

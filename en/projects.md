@@ -1,11 +1,11 @@
 ---
 keywords: "projects, R&amp;D, videos, documentation"
 description: My R&amp;D Projects (Selection)
+title: My R&amp;D Projects (Selection)
 ---
 
 {% include _init_page_variables.html %}
 {% assign fig-count = 0 %}
-# My R&amp;D Projects (Selection)
 
 I have put some of my projects online.  In particular, I have made
 available the following projects on GitHub.  Note that this is just a

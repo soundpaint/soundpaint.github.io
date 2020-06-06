@@ -1,8 +1,7 @@
 ---
 keywords: "resume, biography, vita"
 description: resume of my vita
+title: About Me
 ---
-
-# About Me
 
 (To be added.)

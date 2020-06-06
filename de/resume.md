@@ -1,8 +1,7 @@
 ---
 keywords: "Lebenslauf, Biographie, Vita"
 description: Lebenslauf
+title: Über mich
 ---
-
-# Über mich
 
 (Folgt.)

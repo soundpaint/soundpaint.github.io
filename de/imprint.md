@@ -1,9 +1,8 @@
 ---
 keywords: "Impressum, Kontakt"
 description: Impressum
+title: Impressum
 ---
-
-# Impressum
 
 Mit dieser Website dokumentiere ich meine künstlerischen und
 technologischen Projekte, die ich in meiner Freizeit und ohne

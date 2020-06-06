@@ -1,9 +1,8 @@
 ---
 keywords: "arts, arts projects, arts performances, videos, documentation"
 description: list of my arts projects and public performances
+title: List of My Arts Projects and Public Performances (Selection)
 ---
-
-# List of My Arts Projects and Public Performances (Selection)
 
 This web page lists some of my arts projects and public performances
 (including music), and links to additional material such as

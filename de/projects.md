@@ -1,11 +1,11 @@
 ---
 keywords: "Projekte, Forschung &amp; Entwicklung, Videos, Dokumentationen"
 description: Meine Projekte aus den Bereichen Forschung und Entwicklung
+title: Meine Projekte aus den Bereichen Forschung &amp; Entwicklung (Auswahl)
 ---
 
 {% include _init_page_variables.html %}
 {% assign fig-count = 0 %}
-# Meine Projekte aus den Bereichen Forschung &amp; Entwicklung (Auswahl)
 
 Einige meiner Projekte habe ich online gestellt.  Insbesondere die
 folgend aufgelisteten Projekte sind auf GitHub verfügbar.  Zu beachten

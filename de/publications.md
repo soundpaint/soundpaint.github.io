@@ -1,9 +1,8 @@
 ---
 keywords: "Veröffentlichungen, Artikel, Foliensätze, Videos"
 description: Liste meiner Veröffentlichungen
+title: Meine Veröffentlichungen
 ---
-
-# Meine Veröffentlichungen
 
 Diese Webseite führt die meisten meiner Veröffentlichungen auf und
 verlinkt zu ergänzendem Material wie Konferenzartikel, Foliensätze zu

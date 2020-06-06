@@ -1,9 +1,8 @@
 ---
 keywords: "index, main page, landing page"
 description: landing page of my website
+title: Dear visitor,
 ---
-
-# Dear visitor,
 
 <img src="../images/me.png" style="float:right;width:98px;padding:10px" />
 

@@ -1,9 +1,8 @@
 ---
 keywords: "Index, Hauptseite, Einstiegsseite"
 description: Einstiegsseite meiner Website
+title: Liebe/r Besucher/in,
 ---
-
-# Liebe/r Besucher/in,
 
 <img src="../images/me.png" style="float:right;width:98px;padding:10px" />
 

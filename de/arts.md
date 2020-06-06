@@ -1,9 +1,8 @@
 ---
 keywords: "Kunst, Musik, Kunstprojekte, Aufführungen, Videos, Dokumentationen"
 description: Liste meiner Kunstprojekte und öffentlichen Aufführungen
+title: Liste meiner Kunstprojekte und öffentlichen Aufführungen (Auswahl)
 ---
-
-# Liste meiner Kunstprojekte und öffentlichen Aufführungen (Auswahl)
 
 Nachstehend aufgelistet sind einige meiner Kunstprojekte und
 öffentlichen Aufführungen (einschließlich musikalischer Aufführungen),
