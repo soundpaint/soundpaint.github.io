@@ -1,5 +1,5 @@
 ---
-categories: "publications, papers, slides, videos"
+keywords: "publications, papers, slides, videos"
 description: list of my publications
 ---
 

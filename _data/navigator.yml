@@ -1,34 +1,36 @@
-navigator_title: Contents
+navigator_title:
+  "en": Contents
+  "de": Inhalt
 entries:
-- title:
+- url: index.html
+  title:
     "en": "Welcome"
     "de": "Begrüßung"
-  url: index.html
-- title:
-    "de": "Forschung und Entwicklung"
+- url: projects.html
+  title:
     "en": "R &amp; D"
-  url: projects.html
-- title:
-    "de": "Künstlerisches"
+    "de": "Forschung und Entwicklung"
+- url: arts.html
+  title:
     "en": "Arts"
-  url: arts.html
-- title:
-    "de": "Veröffentlichungen"
+    "de": "Künstlerisches"
+- url: publications.html
+  title:
     "en": "Publications"
-  url: publications.html
-- title:
-    "de": "Über mich"
+    "de": "Veröffentlichungen"
+- url: resume.html
+  title:
     "en": "About Me"
-  url: resume.html
-- title:
-    "de": "Neuigkeiten"
+    "de": "Über mich"
+- url: news.html
+  title:
     "en": "News"
-  url: news.html
-- title:
-    "de": "Notizen"
+    "de": "Neuigkeiten"
+- url: scratchpad.html
+  title:
     "en": "Scratch Pad"
-  url: scratchpad.html
-- title:
-    "de": "Impressum"
+    "de": "Notizen"
+- url: imprint.html
+  title:
     "en": "Imprint"
-  url: imprint.html
+    "de": "Impressum"

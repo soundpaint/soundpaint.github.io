@@ -1,5 +1,5 @@
 ---
-categories: "Veröffentlichungen, Artikel, Foliensätze, Videos"
+keywords: "Veröffentlichungen, Artikel, Foliensätze, Videos"
 description: Liste meiner Veröffentlichungen
 ---
 

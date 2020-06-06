@@ -1,3 +1,8 @@
+---
+keywords: "Projekte, Forschung &amp; Entwicklung, Videos, Dokumentationen"
+description: Meine Projekte aus den Bereichen Forschung und Entwicklung
+---
+
 {% include _init_page_variables.html %}
 {% assign fig-count = 0 %}
 # Meine Projekte aus den Bereichen Forschung &amp; Entwicklung (Auswahl)

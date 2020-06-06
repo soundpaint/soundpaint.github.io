@@ -1,5 +1,5 @@
 ---
-categories: "Notizen, Documentationen, externe Verlinkungen"
+keywords: "Notizen, Documentationen, externe Verlinkungen"
 description: Notizseite, die mir bei der Pflege dieser Website helfen soll
 ---
 

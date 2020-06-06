@@ -1,3 +1,8 @@
+---
+keywords: "projects, R&amp;D, videos, documentation"
+description: My R&amp;D Projects (Selection)
+---
+
 {% include _init_page_variables.html %}
 {% assign fig-count = 0 %}
 # My R&amp;D Projects (Selection)

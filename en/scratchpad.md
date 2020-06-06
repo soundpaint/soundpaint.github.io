@@ -1,5 +1,5 @@
 ---
-categories: "scratch pad, documentation, links"
+keywords: "scratch pad, documentation, links"
 description: scratch pad for helping me authoring this website
 style: TRUE
 ---

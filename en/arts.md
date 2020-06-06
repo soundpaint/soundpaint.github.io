@@ -1,5 +1,5 @@
 ---
-categories: "arts, arts projects, arts performances, videos, documentation"
+keywords: "arts, arts projects, arts performances, videos, documentation"
 description: list of my arts projects and public performances
 ---
 

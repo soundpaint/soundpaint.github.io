@@ -1,5 +1,5 @@
 ---
-categories: "Kunst, Musik, Kunstprojekte, Aufführungen, Videos, Dokumentationen"
+keywords: "Kunst, Musik, Kunstprojekte, Aufführungen, Videos, Dokumentationen"
 description: Liste meiner Kunstprojekte und öffentlichen Aufführungen
 ---
 

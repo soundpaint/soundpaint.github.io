@@ -1,5 +1,5 @@
 ---
-categories: "resume, biography, vita"
+keywords: "resume, biography, vita"
 description: resume of my vita
 ---
 

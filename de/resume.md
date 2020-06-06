@@ -1,5 +1,5 @@
 ---
-categories: "Lebenslauf, Biographie, Vita"
+keywords: "Lebenslauf, Biographie, Vita"
 description: Lebenslauf
 ---
 
