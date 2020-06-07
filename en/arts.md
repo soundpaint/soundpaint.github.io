@@ -90,8 +90,6 @@ documentation or project sites, when available.
   * [_UND#5_](http://www.und-1.de/) (arts exhibition), Nancy-Halle
     Karlsruhe, March 2nd-7th, 2010 (group show).
 
-[//]: # "TODO: Exhibition @ Immobilien Laub"
-
 * 2009
   * _9/11_ @ [Poly SummerTime
     2009](http://poly-galerie.org/archiv_2009%20-%2008%20-%20august_summertime.html),
@@ -112,6 +110,8 @@ documentation or project sites, when available.
     zusammenhängt_](http://poly-galerie.org/archiv_2008_koeln%20poly_mai.html),
     Poly @ Atelierhaus Merkenicherstraße Köln, May 30st - June 1st,
     2008 (group show).
+
+[//]: # "TODO: Exhibition @ Immobilien Laub Karlsruhe (2008)"
 
 * 2005
   * _Kampf von Marathon_ — composition and production of music for
