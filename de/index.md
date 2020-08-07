@@ -4,7 +4,10 @@ description: Einstiegsseite meiner Website
 title: Liebe/r Besucher/in,
 ---
 
-<img src="../images/me.png" style="float:right;width:98px;padding:10px" />
+<img
+  src="../images/me.png"
+  alt="Bild von mir"
+  style="float:right;width:98px;padding:10px" />
 
 herzlich willkommen auf meiner Website!  Zur Zeit lebe ich in
 Karlsruhe und versuche, meine Expertise im Bereich Forschung und
