@@ -37,11 +37,11 @@ unmittelbar mit mir verwandten Mitglied meiner Familie.  Mein
 Porträtfoto wurde im Fotostudio Kofman, Karlsruhe, angefertigt und mir
 das Recht zur Verwendung im Web eingeräumt.  Verlinkungen auf externe
 Bildquellen sind mit dem Symbol <img src="../images/external-link.svg"
-/> gekennzeichnet.  Bei Symbolbildern („Icons“) wird aus Gründen des
-Layouts ggf. auf die explizite Kennzeichnung als interner oder
-externer Link verzichtet; die Quelle ist in diesen Fällen aus dem
-HTML/CSS-Code ersichtlich und kann in gängigen Browsern über die
-Bildinformation angezeigt werden.
+alt="Symbol für externen Link" /> gekennzeichnet.  Bei Symbolbildern
+(„Icons“) wird aus Gründen des Layouts ggf. auf die explizite
+Kennzeichnung als interner oder externer Link verzichtet; die Quelle
+ist in diesen Fällen aus dem HTML/CSS-Code ersichtlich und kann in
+gängigen Browsern über die Bildinformation angezeigt werden.
 
 ## Haftungsausschluss
 

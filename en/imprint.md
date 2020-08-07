@@ -34,11 +34,12 @@ unless explicitly otherwise stated, or owned by an immediate relative
 of my family.  My portrait picture has been produced at Fotostudio
 Kofman, Karlsruhe, and permission granted to me for use of this
 picture in the web.  Links to external pictures are marked with the
-symbol <img src="../images/external-link.svg" />.  However, icons may
-neither be marked as internal or external link due to constraints in
-the layout of the website; in such cases, the picture source can be
-extracted from the HTML/CSS code or shown in prevailing browsers with
-the built-in picture information function.
+symbol <img src="../images/external-link.svg" alt="symbol for external
+link" />.  However, icons may neither be marked as internal or
+external link due to constraints in the layout of the website; in such
+cases, the picture source can be extracted from the HTML/CSS code or
+shown in prevailing browsers with the built-in picture information
+function.
 
 ## Disclaimer
 
