@@ -50,6 +50,10 @@ documentation or project sites, when available.
     Column_](http://poly-galerie.org/archiv_2014-11-14_hirling_reuter.html)
     @ Poly Galerie Karlsruhe, Nov. 14th-23rd, 2014 (exhibition
     conjointly with Joachim Hirling).
+  * [_„Wurzeln weit mehr Aufmerksamkeit widmen“ – Ende einer
+    Wanderausstellung_](https://kvfm.de/wurzeln-weit-mehr-aufmerksamkeit-widmen-ende-einer-wanderausstellung/)
+    @ Kunstverein Familie Montez, Mai 11th - June 15th, 2014
+    (group show).<br />
   * [_Random
     noise_](https://zkm.de/en/event/2014/05/linux-audio-conference-2014-playroom).
     Concert for Sound Column Four Hands (concept + programming +
