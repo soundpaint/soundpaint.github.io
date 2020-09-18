@@ -33,14 +33,12 @@ source code, whatever appropriate.
     it with different approaches.
   </details>
 
-* _RetroComputing: Emulator VZ200 / Z80._ Talk @ GPN19, Entropia e.V.,
-  Chaos Computer Club Karlsruhe, Karlsruhe, Germany, May 31st,
-  2019.<br />
-
+* _RetroComputing: Emulator VZ200 / Z80._ Talk @
+  [GPN19](https://entropia.de/GPN19:Fahrplan), Entropia e.V., Chaos
+  Computer Club Karlsruhe, Karlsruhe, Germany, May 31st, 2019.<br />
   [Video](https://media.ccc.de/v/gpn19-114-retrocomputing-emulator-vz200-z80) |
   [Slides](https://github.com/soundpaint/VZ200-Emulator/blob/master/src/doc/talk_gpn19_slides.odp) |
   [Project Repo](https://github.com/soundpaint/VZ200-Emulator)
-
   <details>
     <summary>Abstract</summary>
     In this talk, I present my project that implements a software
@@ -69,8 +67,9 @@ source code, whatever appropriate.
   </details>
 
 * _Hacking a 15$ Quadcop for Adding a Computer Interface for Flight
-  Control._ Talk @ GPN18, Entropia e.V., Chaos Computer Club
-  Karlsruhe, Karlsruhe, Germany, May 11th, 2018.<br />
+  Control._ Talk @ [GPN18](https://entropia.de/GPN18:Fahrplan),
+  Entropia e.V., Chaos Computer Club Karlsruhe, Karlsruhe, Germany,
+  May 11th, 2018.<br />
   [Video](https://media.ccc.de/v/gpn18-169-hacking-a-15-quadcop-for-adding-a-computer-interface-for-flight-control) |
   [Slides](https://github.com/soundpaint/QuadCopHack/blob/master/doc/talk-gpn18/quadcop-talk.odp) |
   [Project Repo](https://github.com/soundpaint/QuadCopHack)
@@ -178,9 +177,9 @@ source code, whatever appropriate.
     signal processing, DFT, sliding window technique, spectral analysis
   </details>
 
-* _Modulare Softwaresynthese auf Mehrkern-Prozessoren._ Talk @ GPN7,
-  Entropia e.V., Chaos Computer Club Karlsruhe, Karlsruhe, Germany,
-  July 6th, 2008.<br />
+* _Modulare Softwaresynthese auf Mehrkern-Prozessoren._ Talk @
+  [GPN7](https://entropia.de/GPN7:Fahrplan), Entropia e.V., Chaos
+  Computer Club Karlsruhe, Karlsruhe, Germany, July 6th, 2008.<br />
   [Slides](https://entropia.de/images/a/ab/GPN7-Schnelle-modulare-Synthese-auf-Mehrkern-Architekturen.pdf)
 
 * _Exploiting Multi-Core Architectures for Fast Modular Synthesis._ In

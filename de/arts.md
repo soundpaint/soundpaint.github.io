@@ -54,8 +54,8 @@ Projektseiten, sofern verfügbar.
     gemeinsam mit Joachim Hirling).
   * [_„Wurzeln weit mehr Aufmerksamkeit widmen“ – Ende einer
     Wanderausstellung_](https://kvfm.de/wurzeln-weit-mehr-aufmerksamkeit-widmen-ende-einer-wanderausstellung/)
-    @ Kunstverein Familie Montez, 11. Mai - 15. Juni 2014
-    (Gruppenausstellung).<br />
+    @ Kunstverein Familie Montez, 11. Mai - 15. Juni 2014, Frankfurt
+    am Main, Germany (Gruppenausstellung).<br />
   * [_Random
     noise_](https://zkm.de/en/event/2014/05/linux-audio-conference-2014-playroom).
     Konzert für Klangsäule zu vier Händen (Konzeption +

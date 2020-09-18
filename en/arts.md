@@ -52,8 +52,8 @@ documentation or project sites, when available.
     conjointly with Joachim Hirling).
   * [_„Wurzeln weit mehr Aufmerksamkeit widmen“ – Ende einer
     Wanderausstellung_](https://kvfm.de/wurzeln-weit-mehr-aufmerksamkeit-widmen-ende-einer-wanderausstellung/)
-    @ Kunstverein Familie Montez, Mai 11th - June 15th, 2014
-    (group show).<br />
+    @ Kunstverein Familie Montez, Mai 11th - June 15th, 2014,
+    Frankfurt am Main, Germany (group show).<br />
   * [_Random
     noise_](https://zkm.de/en/event/2014/05/linux-audio-conference-2014-playroom).
     Concert for Sound Column Four Hands (concept + programming +
