@@ -31,3 +31,7 @@ I am also contributing content on the following platforms:
 * [GitHub](https://github.com/soundpaint/)
 * [SoundCloud](https://soundcloud.com/soundpaint-1)
 * [YouTube](https://www.youtube.com/channel/UC0ihifwVXeluzI3BIwGtZRw)
+
+Specific Project Sites:
+
+* [Tipping Points](https://soundpaint.github.io/tipping-points/en)

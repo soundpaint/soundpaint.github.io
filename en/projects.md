@@ -12,7 +12,7 @@ available the following projects on GitHub.  Note that this is just a
 small selection of all of my projects, since I do not yet have made
 online available all projects.
 
-* [Tipping Points](https://github.com/soundpaint/tipping-points)<br />
+* [Tipping Points](https://soundpaint.github.io/tipping-points/en)<br />
   An analysis and visualization of the hysteresis effect in tipping
   points as they appear in climate change.  Implemented as Java Swing
   application.  Contribution to the supporting programme of the ZKM

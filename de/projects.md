@@ -14,7 +14,7 @@ Projekte darstellt, weil ich zum jetzigen Zeitpunkt noch nicht
 sämtliche meiner Projekte für einer Veröffentlichung im Web
 aufbereitet habe.
 
-* [Kipppunkte](https://github.com/soundpaint/tipping-points)<br />
+* [Kipppunkte](https://soundpaint.github.io/tipping-points/de)<br />
   Analyse und Visualisierung des Hystereseeffekts von Kippunkten, wie
   sie etwa beim Klimawandel relevant sind.  Implementiert als Java
   Swing-Anwendung.  Beitrag zum Begleitprogramm der ZKM-Ausstellung <a

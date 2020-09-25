@@ -34,3 +34,7 @@ mit eigenen Beiträgen präsent:
 * [GitHub](https://github.com/soundpaint/)
 * [SoundCloud](https://soundcloud.com/soundpaint-1)
 * [YouTube](https://www.youtube.com/channel/UC0ihifwVXeluzI3BIwGtZRw)
+
+Spezifische Projektseiten:
+
+* [Kipppunkte](https://soundpaint.github.io/tipping-points/de)
