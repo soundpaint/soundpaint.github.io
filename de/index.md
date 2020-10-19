@@ -38,3 +38,8 @@ mit eigenen Beiträgen präsent:
 Spezifische Projektseiten:
 
 * [Kipppunkte](https://soundpaint.github.io/tipping-points/de)
+
+Frühere Webpräsenzen:
+
+* [Karlsruhe Institute of Technology](https://ps.ipd.kit.edu/176_496.php)
+* [Savannah @ gnu.org](http://savannah.gnu.org/users/reuter)

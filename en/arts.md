@@ -8,6 +8,11 @@ This web page lists some of my arts projects and public performances
 (including music), and links to additional material such as
 documentation or project sites, when available.
 
+* 2020
+  * _Kippunkte_.  In _Letters4Future_, Poly Galerie
+    Karlsruhe, 18. September - 18. Oktober 2019 (Group show curated by
+    [Renate Schweizer](http://www.renate-schweizer.net/)).<br />
+
 * 2019
   * _Respektomat_.  In _Mitgliederausstellung „Respekt“_, Poly Galerie
     Karlsruhe, Dec. 6th-29th, 2019 (group show).<br />

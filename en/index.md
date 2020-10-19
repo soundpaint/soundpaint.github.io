@@ -35,3 +35,8 @@ I am also contributing content on the following platforms:
 Specific Project Sites:
 
 * [Tipping Points](https://soundpaint.github.io/tipping-points/en)
+
+Obsolescent Sites:
+
+* [Karlsruhe Institute of Technology](https://ps.ipd.kit.edu/176_496.php)
+* [Savannah @ gnu.org](http://savannah.gnu.org/users/reuter)

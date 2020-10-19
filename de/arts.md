@@ -9,6 +9,12 @@ Nachstehend aufgelistet sind einige meiner Kunstprojekte und
 mit Verlinkungen zu zusätzlichen Matrialien wie Dokumentation oder
 Projektseiten, sofern verfügbar.
 
+* 2020
+  * _Kippunkte_.  In _Letters4Future_, Poly Galerie
+    Karlsruhe, 18. September - 18. Oktober 2019 (Gruppenausstellung
+    kuratiert von [Renate
+    Schweizer](http://www.renate-schweizer.net/)).<br />
+
 * 2019
   * _Respektomat_.  In _Mitgliederausstellung „Respekt“_, Poly Galerie
     Karlsruhe, 06. - 29. Dezember 2019 (Gruppenausstellung).<br />

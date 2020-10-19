@@ -11,6 +11,11 @@ source code, whatever appropriate.
 
 ## List of Selected Publications
 
+* _Visualisierung der Hysterese von Kippunkten_.  Talk @ exhibition
+  _Letters4Future_ as frame programme of exhibition _Critical Zones_
+  of ZKM Karlsruhe, Sep 18th 2020, Poly Produzentengalerie e.V.,
+  Karlsruhe, Germany.<br />
+
 * _Notensatz im 21. Jahrhundert – Entwicklungen und Perspektiven.
   Bericht von der Notensatzkonferenz in Salzburg._ In [_Musica
   Sacra_](https://www.musica-sacra-online.de), vol. 140, no. 2

@@ -12,6 +12,11 @@ auch als Quelltext, je nachdem, welche Form mir angemessen erscheint.
 
 ## Liste meiner Veröffentlichungen (Auswahl)
 
+* _Visualisierung der Hysterese von Kippunkten_.  Vortrag zur
+  Ausstellung _Letters4Future_ im Rahmenprogramm der Ausstellung
+  _Critical Zones_ des ZKM Karlsruhe, Sep 18th 2020, Poly
+  Produzentengalerie e.V., Karlsruhe, Germany.<br />
+
 * _Notensatz im 21. Jahrhundert – Entwicklungen und Perspektiven.
   Bericht von der Notensatzkonferenz in Salzburg._ In [_Musica
   Sacra_](https://www.musica-sacra-online.de), vol. 140, no. 2
