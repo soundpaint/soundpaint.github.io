@@ -14,6 +14,15 @@ Projekte darstellt, weil ich zum jetzigen Zeitpunkt noch nicht
 sämtliche meiner Projekte für einer Veröffentlichung im Web
 aufbereitet habe.
 
+* [RP2040 PIO Emulator](https://rp2040pio-docs.readthedocs.io)<br />
+  Softwareemulation und Entwicklungsumgebung für PIO-Programme für den
+  Raspberry Pi Pico.  Implementiert in Java.
+
+{% include _figure.html
+   link="https://raw.githubusercontent.com/soundpaint/rp2040pio/main/doc/screenshots/squarewave_1.png"
+   caption="Automatisch generiertes Signaldiagram eines PIO-Programms"
+%}
+
 * [Kipppunkte](https://soundpaint.github.io/tipping-points/de)<br />
   Analyse und Visualisierung des Hystereseeffekts von Kippunkten, wie
   sie etwa beim Klimawandel relevant sind.  Implementiert als Java

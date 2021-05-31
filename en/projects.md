@@ -12,6 +12,15 @@ available the following projects on GitHub.  Note that this is just a
 small selection of all of my projects, since I do not yet have made
 online available all projects.
 
+* [RP2040 PIO Emulator](https://rp2040pio-docs.readthedocs.io)<br />
+  Software emulation and development environment for PIO programs for
+  the Raspberry Pi Pico.  Implemented in Java.
+
+{% include _figure.html
+   link="https://raw.githubusercontent.com/soundpaint/rp2040pio/main/doc/screenshots/squarewave_1.png"
+   caption="Automatically generated signal diagram of a PIO program"
+%}
+
 * [Tipping Points](https://soundpaint.github.io/tipping-points/en)<br />
   An analysis and visualization of the hysteresis effect in tipping
   points as they appear in climate change.  Implemented as Java Swing
