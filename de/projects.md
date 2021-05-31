@@ -37,7 +37,7 @@ aufbereitet habe.
   implementiert in Java.
 
 {% include _figure.html
-   link="https://raw.githubusercontent.com/soundpaint/VZ200-Emulator/master/src/doc/screenshots/screen.png"
+   link="https://raw.githubusercontent.com/soundpaint/VZ200-Emulator/master/doc/screenshots/screen.png"
    caption="Bildschirmfoto „VZ200 Emulator“"
 %}
 

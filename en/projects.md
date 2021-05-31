@@ -36,7 +36,7 @@ online available all projects.
   implemented in Java.
 
 {% include _figure.html
-   link="https://raw.githubusercontent.com/soundpaint/VZ200-Emulator/master/src/doc/screenshots/screen.png"
+   link="https://raw.githubusercontent.com/soundpaint/VZ200-Emulator/master/doc/screenshots/screen.png"
    caption="Screenshot of VZ200 Emulator Screen"
 %}
 

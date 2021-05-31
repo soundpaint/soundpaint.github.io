@@ -42,7 +42,7 @@ source code, whatever appropriate.
   [GPN19](https://entropia.de/GPN19:Fahrplan), Entropia e.V., Chaos
   Computer Club Karlsruhe, Karlsruhe, Germany, May 31st, 2019.<br />
   [Video](https://media.ccc.de/v/gpn19-114-retrocomputing-emulator-vz200-z80) |
-  [Slides](https://github.com/soundpaint/VZ200-Emulator/blob/master/src/doc/talk_gpn19_slides.odp) |
+  [Slides](https://github.com/soundpaint/VZ200-Emulator/blob/master/doc/talk-gpn19/vz200_emulator_gpn19.odp) |
   [Project Repo](https://github.com/soundpaint/VZ200-Emulator)
   <details>
     <summary>Abstract</summary>
