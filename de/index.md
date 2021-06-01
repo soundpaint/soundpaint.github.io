@@ -28,18 +28,18 @@ Ganzen wie ein roter Faden durch alle meine Projekte zieht.
 
 ## Weitere Präsenzen
 
-Neben dieser Website bin ich insbesondere auf folgenden Plattformen
-mit eigenen Beiträgen präsent:
-
-* [GitHub](https://github.com/soundpaint/)
-* [SoundCloud](https://soundcloud.com/soundpaint-1)
-* [YouTube](https://www.youtube.com/channel/UC0ihifwVXeluzI3BIwGtZRw)
-
 Spezifische Projektseiten:
 
+* [RP2040 PIO Emulator](https://rp2040pio-docs.readthedocs.io)
 * [Kipppunkte](https://soundpaint.github.io/tipping-points/de)
 
 Frühere Webpräsenzen:
 
 * [Karlsruhe Institute of Technology](https://ps.ipd.kit.edu/176_496.php)
 * [Savannah @ gnu.org](http://savannah.gnu.org/users/reuter)
+
+Siehe auch:
+
+* [GitHub](https://github.com/soundpaint/)
+* [SoundCloud](https://soundcloud.com/soundpaint-1)
+* [YouTube](https://www.youtube.com/channel/UC0ihifwVXeluzI3BIwGtZRw)
