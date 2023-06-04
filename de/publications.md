@@ -12,10 +12,35 @@ auch als Quelltext, je nachdem, welche Form mir angemessen erscheint.
 
 ## Liste meiner Veröffentlichungen (Auswahl)
 
-* _Visualisierung der Hysterese von Kippunkten_.  Vortrag zur
+* _RP2040 PIO Emulator as DevTool_.  Vortrag auf der
+  [GPN20](https://entropia.de/GPN20:Fahrplan), Entropia e.V., Chaos
+  Computer Club Karlsruhe, Karlsruhe, Germany, May 20st, 2022.<br />
+  [Video](https://media.ccc.de/v/gpn20-51-rp2040-pio-emulator-as-devtool) |
+  [Slides](https://github.com/soundpaint/binaries/raw/master/gpn2022/gpn2022_slides.pdf) |
+  [Project Repo](https://github.com/soundpaint/rp2040pio)
+  <details>
+    <summary>Abstract</summary>
+      Developing PIO programs for the Raspberry Pico RP2040 chip is
+      really hard, since – in contrast to the ARM cores – access to
+      the PIO's inner state is very limited, and debugging output and
+      tracing almost impossible. Therefore, in early 2021, I
+      implemented an emulator for the RP2040 PIO, and a set of tools
+      (for the command line as well as GUI based) and a very simple
+      scripting language for program control and debugging output. The
+      tool set thus supports developing PIO programs by running on the
+      emulator, step by step, if desired, and inspecting as well as
+      logging the PIO's inner state and all GPIO output. Source code
+      is available on GitHub
+      (https://github.com/soundpaint/rp2040pio), and detailed
+      documentation on Read the Docs
+      (https://rp2040pio-docs.readthedocs.io/en/latest/).
+  </details>
+
+* _Visualisierung der Hysterese von Kipppunkten_.  Vortrag in der
   Ausstellung _Letters4Future_ im Rahmenprogramm der Ausstellung
   _Critical Zones_ des ZKM Karlsruhe, Sep 18th 2020, Poly
   Produzentengalerie e.V., Karlsruhe, Germany.<br />
+  [Announcement Video](https://www.youtube.com/watch?v=FJiQreg6KOs)
 
 * _Notensatz im 21. Jahrhundert – Entwicklungen und Perspektiven.
   Bericht von der Notensatzkonferenz in Salzburg._ In [_Musica
@@ -24,8 +49,10 @@ auch als Quelltext, je nachdem, welche Form mir angemessen erscheint.
   Bärenreiter-Verlag, Kassel, Germany.  ISSN 0197-356x.
 
 * _Formale Modellierung gregorianischer Neumen zur Repräsentation in
-  Notationssoftware am Beispiel von LilyPond._ Talk @ Music Engraving
-  Conference 2020, Jan 18th 2020, Mozarteum Salzburg, Austria.<br />
+  Notationssoftware am Beispiel von LilyPond._ Vortrag auf der Music
+  Engraving Conference 2020, Jan 18th 2020, Mozarteum Salzburg,
+  Austria.<br />
+  [Video](https://www.youtube.com/watch?v=MrRYuW4Il5A&list=PLnUODxVw01ejqh74-XHU2Hc7TWS4-b3Ff&index=26) |
   [Slides](https://gitlab.com/MusicEngravingConference/2020/-/raw/master/Talks/Juergen%20Reuter/Modellierung%20gregorianischer%20Neumen.pdf?inline=false)
   <details>
     <summary>Abstract</summary>
@@ -39,7 +66,7 @@ auch als Quelltext, je nachdem, welche Form mir angemessen erscheint.
     it with different approaches.
   </details>
 
-* _RetroComputing: Emulator VZ200 / Z80._ Talk @
+* _RetroComputing: Emulator VZ200 / Z80._ Vortrag auf der
   [GPN19](https://entropia.de/GPN19:Fahrplan), Entropia e.V., Chaos
   Computer Club Karlsruhe, Karlsruhe, Germany, May 31st, 2019.<br />
   [Video](https://media.ccc.de/v/gpn19-114-retrocomputing-emulator-vz200-z80) |
@@ -73,9 +100,9 @@ auch als Quelltext, je nachdem, welche Form mir angemessen erscheint.
   </details>
 
 * _Hacking a 15$ Quadcop for Adding a Computer Interface for Flight
-  Control._ Talk @ [GPN18](https://entropia.de/GPN18:Fahrplan),
-  Entropia e.V., Chaos Computer Club Karlsruhe, Karlsruhe, Germany,
-  May 11th, 2018.<br />
+  Control._ Vortrag auf der
+  [GPN18](https://entropia.de/GPN18:Fahrplan), Entropia e.V., Chaos
+  Computer Club Karlsruhe, Karlsruhe, Germany, May 11th, 2018.<br />
   [Video](https://media.ccc.de/v/gpn18-169-hacking-a-15-quadcop-for-adding-a-computer-interface-for-flight-control) |
   [Slides](https://github.com/soundpaint/QuadCopHack/blob/master/doc/talk-gpn18/quadcop-talk.odp) |
   [Project Repo](https://github.com/soundpaint/QuadCopHack)
@@ -111,7 +138,7 @@ auch als Quelltext, je nachdem, welche Form mir angemessen erscheint.
   </details>
 
 * _Exploiting Coloured Hearing for Research on Acoustic Perception._
-  Lightning Talk @ Linux Audio Conference 2014 (LAC2014).  ZKM
+  Lightning Talk auf der Linux Audio Conference 2014 (LAC2014).  ZKM
   Karlsruhe, Karlsruhe, Germany, May 2nd, 2014.<br />
   [Video](https://lac.linuxaudio.org/2014/video.php?id=19)
   <details>
@@ -183,8 +210,8 @@ auch als Quelltext, je nachdem, welche Form mir angemessen erscheint.
     signal processing, DFT, sliding window technique, spectral analysis
   </details>
 
-* _Modulare Softwaresynthese auf Mehrkern-Prozessoren._ Talk @
-  [GPN7](https://entropia.de/GPN7:Fahrplan), Entropia e.V., Chaos
+* _Modulare Softwaresynthese auf Mehrkern-Prozessoren._ Vortrag auf
+  der [GPN7](https://entropia.de/GPN7:Fahrplan), Entropia e.V., Chaos
   Computer Club Karlsruhe, Karlsruhe, Germany, July 6th, 2008.<br />
   [Slides](https://entropia.de/images/a/ab/GPN7-Schnelle-modulare-Synthese-auf-Mehrkern-Architekturen.pdf)
 

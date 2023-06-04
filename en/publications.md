@@ -11,10 +11,35 @@ source code, whatever appropriate.
 
 ## List of Selected Publications
 
-* _Visualisierung der Hysterese von Kippunkten_.  Talk @ exhibition
+* _RP2040 PIO Emulator as DevTool_. Talk @
+  [GPN20](https://entropia.de/GPN20:Fahrplan), Entropia e.V., Chaos
+  Computer Club Karlsruhe, Karlsruhe, Germany, May 20st, 2022.<br />
+  [Video](https://media.ccc.de/v/gpn20-51-rp2040-pio-emulator-as-devtool) |
+  [Slides](https://github.com/soundpaint/binaries/raw/master/gpn2022/gpn2022_slides.pdf) |
+  [Project Repo](https://github.com/soundpaint/rp2040pio)
+  <details>
+    <summary>Abstract</summary>
+      Developing PIO programs for the Raspberry Pico RP2040 chip is
+      really hard, since – in contrast to the ARM cores – access to
+      the PIO's inner state is very limited, and debugging output and
+      tracing almost impossible. Therefore, in early 2021, I
+      implemented an emulator for the RP2040 PIO, and a set of tools
+      (for the command line as well as GUI based) and a very simple
+      scripting language for program control and debugging output. The
+      tool set thus supports developing PIO programs by running on the
+      emulator, step by step, if desired, and inspecting as well as
+      logging the PIO's inner state and all GPIO output. Source code
+      is available on GitHub
+      (https://github.com/soundpaint/rp2040pio), and detailed
+      documentation on Read the Docs
+      (https://rp2040pio-docs.readthedocs.io/en/latest/).
+  </details>
+
+* _Visualisierung der Hysterese von Kipppunkten_.  Talk @ exhibition
   _Letters4Future_ as frame programme of exhibition _Critical Zones_
   of ZKM Karlsruhe, Sep 18th 2020, Poly Produzentengalerie e.V.,
   Karlsruhe, Germany.<br />
+  [Announcement Video](https://www.youtube.com/watch?v=FJiQreg6KOs)
 
 * _Notensatz im 21. Jahrhundert – Entwicklungen und Perspektiven.
   Bericht von der Notensatzkonferenz in Salzburg._ In [_Musica
@@ -25,6 +50,7 @@ source code, whatever appropriate.
 * _Formale Modellierung gregorianischer Neumen zur Repräsentation in
   Notationssoftware am Beispiel von LilyPond._ Talk @ Music Engraving
   Conference 2020, Jan 18th 2020, Mozarteum Salzburg, Austria.<br />
+  [Video](https://www.youtube.com/watch?v=MrRYuW4Il5A&list=PLnUODxVw01ejqh74-XHU2Hc7TWS4-b3Ff&index=26) |
   [Slides](https://gitlab.com/MusicEngravingConference/2020/-/raw/master/Talks/Juergen%20Reuter/Modellierung%20gregorianischer%20Neumen.pdf?inline=false)
   <details>
     <summary>Abstract</summary>
