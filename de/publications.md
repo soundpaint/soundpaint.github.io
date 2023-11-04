@@ -20,6 +20,24 @@ auch als Quelltext, je nachdem, welche Form mir angemessen erscheint.
   Stadt](https://www.quartierzukunft.de/), Karlsruhe, Germany.
   Gruppenausstellung kuratiert von Renate Schweizer.<br />
   [Vortragsfolien](https://github.com/soundpaint/binaries/raw/master/lff2023/lff2023_slides.pdf)
+  <details>
+    <summary>Abstract</summary>
+    <p>
+      Kippelemente bestehen typischerweise aus mindestens zwei
+      separaten Kipppunkten.  Ist ein System über den einen Kipppunkt
+      hinweg in einen anderen Zustand gekippt, so muss, um über den
+      anderen Kipppunkt wieder in den Ursprungszustand zurückzukehren,
+      zusätzlich der Abstand zwischen den beiden Kipppunkten
+      überwunden werden.  Je nach Größe dieses Abstandes, auch
+      Hysterese genannt, wird das Zurückkippen daher willkürlich
+      schwer bis unerreichbar.  Der Vortrag möchte die Ursachen der
+      Hysterese sowie die sich daraus ergebende Dynamik von
+      Kippelementen aufzeigen und an praktischen Beispielen und
+      technischen Modellen vertiefen mit dem Ziel, ein besseres
+      Verständnis und vertieftes Bewusstsein für mögliche Szenarien
+      des Verlaufs klimatischer Größen zu schaffen.
+    </p>
+  </details>
 
 * Jürgen Reuter, Hellmund Tobias, Jürgen Moßgraber, Philipp Hertweck.
   _The KERES Ontology: Protecting Cultural Heritage from Extreme
