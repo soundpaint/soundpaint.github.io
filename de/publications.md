@@ -173,7 +173,7 @@ auch als Quelltext, je nachdem, welche Form mir angemessen erscheint.
     </p>
   </details>
 
-* _RP2040 PIO Emulator as DevTool_.  Vortrag auf der
+* Jürgen Reuter.  _RP2040 PIO Emulator as DevTool_.  Vortrag auf der
   [GPN20](https://entropia.de/GPN20:Fahrplan), Entropia e.V., Chaos
   Computer Club Karlsruhe, Karlsruhe, Germany, May 20st, 2022.<br />
   [Video](https://media.ccc.de/v/gpn20-51-rp2040-pio-emulator-as-devtool) |
@@ -197,22 +197,23 @@ auch als Quelltext, je nachdem, welche Form mir angemessen erscheint.
       (https://rp2040pio-docs.readthedocs.io/en/latest/).
   </details>
 
-* _Visualisierung der Hysterese von Kipppunkten_.  Vortrag in der
-  Ausstellung _Letters4Future_ im Rahmenprogramm der Ausstellung
+* Jürgen Reuter.  _Visualisierung der Hysterese von Kipppunkten_
+  (Vortrag).  In: _Letters4Future_.  Internationale Ausstellung
+  kuratiert von Renate Schweizer im Rahmenprogramm der Ausstellung
   _Critical Zones_ des ZKM Karlsruhe, Sep 18th 2020, Poly
   Produzentengalerie e.V., Karlsruhe, Germany.<br />
-  [Announcement Video](https://www.youtube.com/watch?v=FJiQreg6KOs)
+  [Ankündigungsvideo](https://www.youtube.com/watch?v=FJiQreg6KOs)
 
-* _Notensatz im 21. Jahrhundert – Entwicklungen und Perspektiven.
-  Bericht von der Notensatzkonferenz in Salzburg._ In [_Musica
-  Sacra_](https://www.musica-sacra-online.de), vol. 140, no. 2
-  (Ausg. 2/2020), pp. 80-81, April 1st, 2020, B 20503 F.
+* Jürgen Reuter.  _Notensatz im 21. Jahrhundert – Entwicklungen und
+  Perspektiven.  Bericht von der Notensatzkonferenz in Salzburg._ In
+  [_Musica Sacra_](https://www.musica-sacra-online.de), vol. 140,
+  no. 2 (Ausg. 2/2020), pp. 80-81, April 1st, 2020, B 20503 F.
   Bärenreiter-Verlag, Kassel, Germany.  ISSN 0197-356x.
 
-* _Formale Modellierung gregorianischer Neumen zur Repräsentation in
-  Notationssoftware am Beispiel von LilyPond._ Vortrag auf der Music
-  Engraving Conference 2020, Jan 18th 2020, Mozarteum Salzburg,
-  Austria.<br />
+* Jürgen Reuter.  _Formale Modellierung gregorianischer Neumen zur
+  Repräsentation in Notationssoftware am Beispiel von LilyPond._
+  Vortrag auf der Music Engraving Conference 2020, Jan 18th 2020,
+  Mozarteum Salzburg, Austria.<br />
   [Video](https://www.youtube.com/watch?v=MrRYuW4Il5A&list=PLnUODxVw01ejqh74-XHU2Hc7TWS4-b3Ff&index=26) |
   [Slides](https://gitlab.com/MusicEngravingConference/2020/-/raw/master/Talks/Juergen%20Reuter/Modellierung%20gregorianischer%20Neumen.pdf?inline=false)
   <details>
@@ -227,9 +228,10 @@ auch als Quelltext, je nachdem, welche Form mir angemessen erscheint.
     it with different approaches.
   </details>
 
-* _RetroComputing: Emulator VZ200 / Z80._ Vortrag auf der
-  [GPN19](https://entropia.de/GPN19:Fahrplan), Entropia e.V., Chaos
-  Computer Club Karlsruhe, Karlsruhe, Germany, May 31st, 2019.<br />
+* Jürgen Reuter.  _RetroComputing: Emulator VZ200 / Z80._ Vortrag auf
+  der [GPN19](https://entropia.de/GPN19:Fahrplan), Entropia e.V.,
+  Chaos Computer Club Karlsruhe, Karlsruhe, Germany, May 31st,
+  2019.<br />
   [Video](https://media.ccc.de/v/gpn19-114-retrocomputing-emulator-vz200-z80) |
   [Slides](https://github.com/soundpaint/VZ200-Emulator/blob/master/doc/talk-gpn19/vz200_emulator_gpn19.odp) |
   [Project Repo](https://github.com/soundpaint/VZ200-Emulator)
@@ -260,8 +262,8 @@ auch als Quelltext, je nachdem, welche Form mir angemessen erscheint.
     Project Source Code: https://github.com/soundpaint/VZ200-Emulator
   </details>
 
-* _Hacking a 15$ Quadcop for Adding a Computer Interface for Flight
-  Control._ Vortrag auf der
+* Jürgen Reuter.  _Hacking a 15$ Quadcop for Adding a Computer
+  Interface for Flight Control._ Vortrag auf der
   [GPN18](https://entropia.de/GPN18:Fahrplan), Entropia e.V., Chaos
   Computer Club Karlsruhe, Karlsruhe, Germany, May 11th, 2018.<br />
   [Video](https://media.ccc.de/v/gpn18-169-hacking-a-15-quadcop-for-adding-a-computer-interface-for-flight-control) |
@@ -298,9 +300,10 @@ auch als Quelltext, je nachdem, welche Form mir angemessen erscheint.
     https://github.com/soundpaint/QuadCopHack
   </details>
 
-* _Exploiting Coloured Hearing for Research on Acoustic Perception._
-  Lightning Talk auf der Linux Audio Conference 2014 (LAC2014).  ZKM
-  Karlsruhe, Karlsruhe, Germany, May 2nd, 2014.<br />
+* Jürgen Reuter.  _Exploiting Coloured Hearing for Research on
+  Acoustic Perception._ Lightning Talk auf der Linux Audio Conference
+  2014 (LAC2014).  ZKM Karlsruhe, Karlsruhe, Germany, May 2nd,
+  2014.<br />
   [Video](https://lac.linuxaudio.org/2014/video.php?id=19)
   <details>
     <summary>Abstract</summary>
@@ -323,10 +326,10 @@ auch als Quelltext, je nachdem, welche Form mir angemessen erscheint.
     coloured hearing individual and present first results.
   </details>
 
-* _Case Study: Building an Out Of The Box Raspberry Pi Modular
-  Synthesizer._ In _Proceedings of the 12th International Linux Audio
-  Conference (LAC2014)_, pp. 41-48.  ZKM, Karlsruhe, Germany, May 1st,
-  2014.<br />
+* Jürgen Reuter.  _Case Study: Building an Out Of The Box Raspberry Pi
+  Modular Synthesizer._ In _Proceedings of the 12th International
+  Linux Audio Conference (LAC2014)_, pp. 41-48.  ZKM, Karlsruhe,
+  Germany, May 1st, 2014.<br />
   [Paper](http://lac.linuxaudio.org/2014/papers/12.pdf) |
   [Slides](http://lac.linuxaudio.org/2014/download/raspmodsyn.pdf) |
   [Video](https://lac.linuxaudio.org/2014/video.php?id=9)
@@ -348,10 +351,10 @@ auch als Quelltext, je nachdem, welche Form mir angemessen erscheint.
     Networked Audio
   </details>
 
-* _Considering Transient Effect in Spectrum Analysis._ In _Proceedings
-  of the 7th International Linux Audio Conference (LAC2009)_,
-  pp. 153-160.  Instituzione Casa della Musica, Grafiche Step, Parma,
-  Italy, April 16th, 2009.<br />
+* Jürgen Reuter.  _Considering Transient Effect in Spectrum Analysis._
+  In _Proceedings of the 7th International Linux Audio Conference
+  (LAC2009)_, pp. 153-160.  Instituzione Casa della Musica, Grafiche
+  Step, Parma, Italy, April 16th, 2009.<br />
   [Paper](https://lac.linuxaudio.org/2009/cdm/Saturday/15_Reuter/15.pdf) |
   [Slides](https://lac.linuxaudio.org/2009/cdm/Saturday/15_Reuter/TransientEffects.pdf) |
   [Video](http://lad.linuxaudio.org/events/2009_cdm/videos/)
@@ -371,15 +374,16 @@ auch als Quelltext, je nachdem, welche Form mir angemessen erscheint.
     signal processing, DFT, sliding window technique, spectral analysis
   </details>
 
-* _Modulare Softwaresynthese auf Mehrkern-Prozessoren._ Vortrag auf
-  der [GPN7](https://entropia.de/GPN7:Fahrplan), Entropia e.V., Chaos
+* Jürgen Reuter.  _Modulare Softwaresynthese auf
+  Mehrkern-Prozessoren._ Vortrag auf der
+  [GPN7](https://entropia.de/GPN7:Fahrplan), Entropia e.V., Chaos
   Computer Club Karlsruhe, Karlsruhe, Germany, July 6th, 2008.<br />
   [Slides](https://entropia.de/images/a/ab/GPN7-Schnelle-modulare-Synthese-auf-Mehrkern-Architekturen.pdf)
 
-* _Exploiting Multi-Core Architectures for Fast Modular Synthesis._ In
-  _Proceedings of the 6th International Linux Audio Conference
-  (LAC2008)_, pp. 68-76.  Academy of Media Arts, Köln, Germany, Feb
-  28th, 2008.  ISBN 978-80-7399-362-7.<br />
+* Jürgen Reuter.  _Exploiting Multi-Core Architectures for Fast
+  Modular Synthesis._ In _Proceedings of the 6th International Linux
+  Audio Conference (LAC2008)_, pp. 68-76.  Academy of Media Arts,
+  Köln, Germany, Feb 28th, 2008.  ISBN 978-80-7399-362-7.<br />
   [Paper](http://lac.linuxaudio.org/2008/download/papers/8.pdf) |
   [Slides](https://lac.linuxaudio.org/2008/download/slides/8/lac2008_paper8_slides.pdf)
   <details>
@@ -406,12 +410,13 @@ auch als Quelltext, je nachdem, welche Form mir angemessen erscheint.
   Conference on Object-Oriented Programming (ECOOP2007)_.  Technische
   Universität Berlin, Germany, July 31st, 2007.  ISSN 1436-9915
 
-* _SoundPaint — Painting Music._ Project Presentation @ Nacht der
-  Informatik 2006, Karlsruhe, Germany, July 14th, 2006.
+* Jürgen Reuter.  _SoundPaint — Painting Music._ Project Presentation
+  @ Nacht der Informatik 2006, Karlsruhe, Germany, July 14th, 2006.
 
-* _Ontological Processing of Sound Resources._ In _Proceedings of the
-  4th International Linux Audio Conference (LAC2006)_, pp. 97-104.
-  ZKM Karlsruhe, Karlsruhe, Germany, April 30th, 2006.<br />
+* Jürgen Reuter.  _Ontological Processing of Sound Resources._ In
+  _Proceedings of the 4th International Linux Audio Conference
+  (LAC2006)_, pp. 97-104.  ZKM Karlsruhe, Karlsruhe, Germany, April
+  30th, 2006.<br />
   [Paper](http://lac.zkm.de/2006/papers/lac2006_juergen_reuter.pdf) |
   [Slides](http://lac.zkm.de/2006/presentations/lac2006_juergen_reuter_slides.pdf)
   <details>
@@ -454,9 +459,9 @@ auch als Quelltext, je nachdem, welche Form mir angemessen erscheint.
   Environments._ In _The 2nd International Conference on Embedded
   Software and Systems (ICESS 2005)_, Xi'an, P.R.China, Dec. 2005.
 
-* _SoundPaint — Painting Music._ In _Proceedings of the 3rd
-  International Linux Audio Conference (LAC2005)_, ZKM Karlsruhe,
-  Karlsruhe, Germany, April 22nd, 2005.<br />
+* Jürgen Reuter.  _SoundPaint — Painting Music._ In _Proceedings of
+  the 3rd International Linux Audio Conference (LAC2005)_, ZKM
+  Karlsruhe, Karlsruhe, Germany, April 22nd, 2005.<br />
   [Paper](http://lac.zkm.de/2005/papers/juergen_reuter.pdf) |
   [Slides](http://lac.zkm.de/2005/slides/juergen_reuter_slides.pdf)
   <details>
@@ -520,10 +525,10 @@ auch als Quelltext, je nachdem, welche Form mir angemessen erscheint.
   2001)_, Toronto, Canada.  IEEE Computer Society, Los Alamitos, CA,
   May 12th, 2001.  ISBN 0-7695-1050-7.
 
-* _Bewertung zweier Ansätze zur verteilten Revisionskontrolle über das
-  Internet._ Diplomarbeit am Institut für Programmstrukturen und
-  Datenorganisation (IPD), Universität Karlsruhe, Karlsruhe, Germany,
-  Aug 20th, 2000.
+* Jürgen Reuter.  _Bewertung zweier Ansätze zur verteilten
+  Revisionskontrolle über das Internet._ Diplomarbeit am Institut für
+  Programmstrukturen und Datenorganisation (IPD), Universität
+  Karlsruhe, Karlsruhe, Germany, Aug 20th, 2000.
 
 * James J. Hunt, Frank Lamers, Jürgen Reuter, Walter F. Tichy.
   _Distributed Configuration Management via Java and the World Wide
@@ -533,8 +538,8 @@ auch als Quelltext, je nachdem, welche Form mir angemessen erscheint.
   pp. 161-174.  Lecture Notes in Computer Science (LNCS), Springer,
   May 18th, 1997.  ISBN 3-540-63014-7.
 
-* _Verteilte Revisionskontrolle über das World Wide Web._
-  Studienarbeit am Institut für Programmstrukturen und
+* Jürgen Reuter.  _Verteilte Revisionskontrolle über das World Wide
+  Web._ Studienarbeit am Institut für Programmstrukturen und
   Datenorganisation (IPD), Universität Karlsruhe, Karlsruhe, Germany,
   June 7th, 1996.
 
