@@ -4,13 +4,174 @@ description: Liste meiner Veröffentlichungen
 title: Meine Veröffentlichungen
 ---
 
-Diese Webseite führt die meisten meiner Veröffentlichungen auf und
+Diese Webseite führt die meisten meiner Vorträge und
+Veröffentlichungen, sowie Beteiligung an Veröffentlichungen auf und
 verlinkt zu ergänzendem Material wie Konferenzartikel, Foliensätze zu
 meinen Vorträgen oder zusätzliches Datenmaterial, das im Zuge meiner
 Veröffentlichungen entstanden ist, entweder als Binärdateien, oder
 auch als Quelltext, je nachdem, welche Form mir angemessen erscheint.
 
 ## Liste meiner Veröffentlichungen (Auswahl)
+
+* Jürgen Reuter.  _Visualisierung der Hysterese von Kipppunkten_
+  (Vortrag).  In: _Letters for Future 2 – Kunstwochen im
+  Zukunftsraum._ Internationale Ausstellung von Donnerstag, den
+  21.09.2023 bis Sonntag, den 08.10.2023 @ [Quartier Zukunft – Labor
+  Stadt](https://www.quartierzukunft.de/), Karlsruhe, Germany.
+  Gruppenausstellung kuratiert von Renate Schweizer.<br />
+  [Vortragsfolien](https://github.com/soundpaint/binaries/raw/master/lff2023/lff2023_slides.pdf)
+
+* Jürgen Reuter, Hellmund Tobias, Jürgen Moßgraber, Philipp Hertweck.
+  _The KERES Ontology: Protecting Cultural Heritage from Extreme
+  Climate Events_.  Heritage 2023, 6(5), 4015-4041, MDPI, Basel,
+  Switzerland, April 28th, 2023.
+  https://doi.org/10.3390/heritage6050211
+  <details>
+    <summary>Abstract</summary>
+    <p>
+      Protecting and preserving cultural heritage (CH) in view of
+      global climate change is the main objective of the KERES
+      project. For managing climate impact with proper measurements,
+      including prevention and responsive actions, an ontology has
+      been devised in the course of this project in close cooperation
+      with relevant stakeholders of selected CH assets that serve us
+      as case studies. In particular, the ontology supports modeling
+      specific CH assets with respect to the challenges of climate
+      change. It turns out the main challenge is to subsume the
+      diversity of models and processes specific to individual assets
+      on a proper level of abstraction. Based on the ontology, we
+      succeeded in creating software that assists stakeholders in
+      managing their CH challenges, including an interactive app for
+      suggesting preventative measurements and a web application for
+      creating route cards that are used by emergency service
+      professionals in the case of rescuing cultural assets. We are
+      confident that our methodology of CH assets abstraction and
+      modeling will be applicable to a broader range of CH assets.
+    </p>
+  </details>
+
+* Lola Kotova, Johanna Leissner, Matthias Winkler, Ralf Kilian, Stefan
+  Bichlmair, Florian Antretter, Jürgen Moßgraber, Jürgen Reuter,
+  Tobias Hellmund, Katharina Matheja, Michael Rohde, Uwe
+  Mikolajewicz. _Making use of climate information for sustainable
+  preservation of cultural heritage: applications to the KERES
+  project_.  In: Heritage Science, vol. 11, issue 1.  Jan 26th, 2023.
+  https://doi.org/10.1186/s40494-022-00853-9
+  <details>
+    <summary>Abstract</summary>
+    <p>
+      According to the final report of the European Union OMC expert
+      group on strengthening cultural heritage resilience for
+      anthropogenic climate change, the impacts of climate change,
+      particularly extreme weather events, on cultural heritage in
+      Europe have become increasingly evident in recent years and are
+      progressing at an unprecedented speed and scale. Archaeological
+      sites, museum collections, and historical buildings and
+      structures are affected, among others, by rising temperatures or
+      by heavy storms and precipitation events. Deep scientific
+      knowledge about future climate projections is required to
+      develop appropriate preservation strategies and measures to
+      protect and adapt cultural heritage. In this paper we present
+      the first set of results of the KERES project. The project
+      focuses on the impacts of future extreme climate events on the
+      built heritage and historic gardens. An ensemble of climate
+      simulations is used to analyze changes in both climatology and
+      extreme events for several climate variables at two cultural
+      heritage sites in Germany. In this study, a methodology was
+      developed to guide climate scientists on how to better tailor
+      climate information for the needs of stakeholders in the
+      cultural heritage sector. It would help the stakeholders to
+      integrate the results of climate projections into the prevention
+      and emergency management, in particular for the risk assessment
+      of extreme events. The effects of interpolation from a model
+      grid to a location of cultural heritage site and advantages of
+      an ensemble approach have been demonstrated in the study.
+    </p>
+  </details>
+
+* Lola Kotova, Johanna Leissner, Matthias Winkler, Florian Antretter,
+  Ralf Kilian, Jürgen Moßgraber, Jürgen Reuter, Tobias Hellmund, Anton
+  Dolgov, Katharina Matheja Matheja, Michael Rohde Rhode, Uta Pollmer,
+  Uwe Mikolajewicz.  _Making use of climate information for protecting
+  cultural heritage from extreme weather events in a warming world._
+  EGU General Assembly 2022, Vienna, Austria, 23–27 May 2022,
+  EGU22-2850, https://doi.org/10.5194/egusphere-egu22-2850, 2022.
+  <details>
+    <summary>Abstract</summary>
+    <p>
+      The intensity and frequency of extreme weather events in Europe
+      are one of the most dangerous consequences of a warming
+      climate. Some regions suffer more under heat waves and droughts,
+      while others are experiencing extreme rainfalls. Thus, for
+      example, a severe flood in July 2021 in several European
+      countries caused widespread damages particularly in Belgium and
+      Germany.
+    </p>
+    <p>
+      Which extreme weather events are to be expected in the future?
+      How can the damage of irretrievable historical sites be avoided
+      or, at least, limited or dealt with? All these questions are
+      addressed in the three-year research project KERES, which is
+      funded by the German Federal Ministry of Education and Research
+      (BMBF) and is coordinated by the Fraunhofer ISC together with
+      the Fraunhofer EU Office in Brussels.
+    </p>
+    <p>
+      As first step the regional relevance of future extreme weather
+      events in Germany will be investigated.  This information will
+      be further used to estimate the potential damages to buildings
+      and outdoor facilities. The precautionary and responsive
+      measures to manage potential or acute damage situations will be
+      investigated as well. The designed methodologies will be tested
+      for five case studies including World Heritage Sites (historical
+      buildings and historical gardens) in Germany.
+    </p>
+    <p>
+      The major tools of KERES include building component and indoor
+      climate simulations and high-resolution urban climate
+      models. The necessary input will be taken from the most recent
+      ensemble of regional climate change projections of the
+      EURO-CORDEX Initiative (www.euro-cordex.net).  As a result, an
+      ontology-based information system will be designed for managing
+      the expected damage situations.
+    </p>
+    <p>
+      We will present first results from the KERES project. The
+      discussion will be focused on how to access and visualize the
+      robustness of projected changes of extreme weather events in a
+      way oriented to individual cultural heritage sites.
+    </p>
+  </details>
+
+* Tobias Hellmund, Manfred Schenk, Jürgen Moßgraber, Philipp Hertweck,
+  Jürgen Reuter, Hans Springer.  _ELD-BS: The Digital Situation
+  Dashboard for Baden-Württemberg._ In: Proceedings of the 19th
+  International Conference on Information Systems for Crisis Response
+  and Management (ISCRAM 2022), Tarbes, France. ISCRAM Digital
+  Library, May 22-25, 2022.  https://doi.org/10.24406/publica-511
+  <details>
+    <summary>Abstract</summary>
+    <p>
+      This paper presents the Elektronische Lagedarstellung für den
+      Bevölkerungsschutz (ELD-BS, engl. Electronic Situation Dashboard
+      for civil protection), a software suite for managing crisis
+      relevant information in the German federal state
+      Baden-Württemberg. ELD-BS serves as an easy-to-use and
+      functional tool to support administration work in larger
+      operational situations and in the event of a disaster. The
+      ELD-BS supports communication and data exchange between the
+      authorized access points in the event of an incident, yet it
+      does not replace the formal reporting channels and the
+      communication between the units involved in the
+      operation. ELD-BS is conceptually intended for the overarching
+      use of the administrative levels and particularly allows the
+      exchange of information between the administrative authorities
+      in large-scale operations. The software suite comprises 4
+      applications, which are accessible from the web and offer
+      different functionalities during crisis response. This paper
+      introduces the individual components and their interaction.
+    </p>
+  </details>
 
 * _RP2040 PIO Emulator as DevTool_.  Vortrag auf der
   [GPN20](https://entropia.de/GPN20:Fahrplan), Entropia e.V., Chaos
