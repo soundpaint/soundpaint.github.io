@@ -12,6 +12,37 @@ appropriate.
 
 ## List of Selected Publications
 
+* Jürgen Reuter.  _RP Pico: Simple Stupid Synth_.  Talk @
+  [GPN22](https://entropia.de/GPN22), Entropia e.V., Chaos
+  Computer Club Karlsruhe, Karlsruhe, Germany, May 30st, 2024.<br />
+  [Video](https://media.ccc.de/v/gpn22-496-rp-pico-simple-stupid-synth) |
+  [Slides](https://github.com/soundpaint/binaries/raw/master/gpn2024/gpn22_slides.pdf) |
+  [Project Repo](https://github.com/soundpaint/pico-simple-stupid-synth)
+  <details>
+    <summary>Abstract</summary>
+    <p>
+      Mit einem einzelnen µ-Controller lässt sich kein 32-stimmig
+      polyphoner Synthesizer bauen? Doch, mit gewissen Abtrichen beim
+      Klang schon. Konkret: Per USB an einen Rechner angeschlossen
+      zeigt sich mein RP2040-Pico-basierter Synth als MIDI-Gerät, das
+      zwar nur simple Rechteckschwingungen erzeugt, davon aber für
+      einen µ-Controller ziemlich viele. Bei vollorchestrierten
+      MIDI-Dateien klingt der resultierende Chiptune-artige Sound gar
+      nicht 'mal so verkehrt. Im Vortrag werde ich u.a. darauf
+      eingehen, wie sich die Ideen hinter dem Bresenham-Algorithmus
+      zum Zeichnen von Linien auch beim Audio-Rendering einsetzen
+      lassen, um in den zeitkritischen inneren Schleifen ganz ohne
+      Fließkommazahlen und Multiplikationen auszukommen. Ferner kann
+      der Synthi auch als Blaupause für eigene Pico-basierte Projekte
+      dienen, weil ich die teils herausfordernden USB- und I²S-Tücken
+      prototypisch lösen konnte.
+
+      Der Source-Code des Projekts ist hier zu finden:
+
+      https://github.com/soundpaint/pico-simple-stupid-synth
+    </p>
+  </details>
+
 * Jürgen Reuter.  _Visualisierung der Hysterese von Kipppunkten_
   (Talk). In: _Letters for Future 2 – Kunstwochen im Zukunftsraum._
   International exhibition from Thursday, Sep. 09, 2023, until Sunday,
@@ -199,6 +230,7 @@ appropriate.
   [Project Repo](https://github.com/soundpaint/rp2040pio)
   <details>
     <summary>Abstract</summary>
+    <p>
       Developing PIO programs for the Raspberry Pico RP2040 chip is
       really hard, since – in contrast to the ARM cores – access to
       the PIO's inner state is very limited, and debugging output and
@@ -213,6 +245,7 @@ appropriate.
       (https://github.com/soundpaint/rp2040pio), and detailed
       documentation on Read the Docs
       (https://rp2040pio-docs.readthedocs.io/en/latest/).
+    </p>
   </details>
 
 * Jürgen Reuter.  _Visualisierung der Hysterese von Kipppunkten_
