@@ -9,11 +9,11 @@ title: Dear visitor,
   alt="picture of me"
   style="float:right;width:98px;padding:10px" />
 
-welcome to my website!  Currently living in Karlsruhe, Germany, I am
-trying to combine my R&amp;D expertise as software engineer / software
-architect with my knowledge and experience in the fields of musical
-composition and performance and arts, as well as natural sciences and
-maths.
+welcome to my website!  Currently living in Landau (Pfalz), Germany,
+I am trying to combine my R&amp;D expertise as software engineer /
+software architect with my knowledge and experience in the fields
+of musical composition and performance and arts, as well as natural
+sciences and maths.
 
 In fact, inspiration for many of my projects originates from some
 mathematical issue that I try to tackle and explore.  The effort,

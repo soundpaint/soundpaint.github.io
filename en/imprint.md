@@ -10,10 +10,10 @@ I am pursuing in my spare time and without any intent of profit.
 ## Responsible for the content (pursuant to §5 TMG):
 
     Jürgen Reuter
-    Rheinstraße 86
-    76185 Karlsruhe
+    Wegelnburgstraße 15a
+    76829 Landau (Pfalz)
     Germany
-    Phone +49 721 75 29 61
+    Phone: TBA
     eMail: reuter_j [at] web [dot] de
 
 ## Privacy Statement

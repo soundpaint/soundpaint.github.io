@@ -10,8 +10,8 @@ title: Liebe/r Besucher/in,
   style="float:right;width:98px;padding:10px" />
 
 herzlich willkommen auf meiner Website!  Zur Zeit lebe ich in
-Karlsruhe und versuche, meine Expertise im Bereich Forschung und
-Entwicklung als Softwareentwickler und -architekt mit meinen
+Landau (Pfalz) und versuche, meine Expertise im Bereich Forschung
+und Entwicklung als Softwareentwickler und -architekt mit meinen
 Kenntnissen und Erfahrungen im Bereich der Musikkomposition und
 -aufführung und der Kunst, wie auch der Naturwissenschaften und
 Mathematik zu verbinden.
